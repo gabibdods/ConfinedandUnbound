@@ -1,0 +1,4 @@
+Name       = Diagonal Movement
+Version    = 1.0.1
+Essentials = 21.1
+Credits    = wrigty12

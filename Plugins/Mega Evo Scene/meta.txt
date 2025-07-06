@@ -1,0 +1,5 @@
+﻿Name      = Mega Evolution
+Version   = 1.0
+Website   = https://reliccastle.com/resources/1488/
+Essentials = 21.1
+Credits   = bo4p5687, A.I.R

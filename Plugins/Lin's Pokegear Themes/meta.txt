@@ -1,0 +1,6 @@
+Name       = Lin's Pokegear Themes
+Version    = 1.0.9
+Essentials = 21,21.1
+Optional   = Pokegear Watch,1.2
+Link       = https://reliccastle.com/resources/1321/
+Credits    = Jackster, LinKazamine, CynderHydra

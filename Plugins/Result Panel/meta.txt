@@ -1,0 +1,9 @@
+Name       = Result Panel
+Version    = 1.1
+Essentials = 21.1
+Website    = https://eeveeexpo.com/resources/1531/
+Credits    = Mr.Heathcliff
+
+# Aditional credits:
+# DiegoWT: for the Trainers_gen4 example template.
+# Radical Raptr, Spriter's Resource: for the Trainers_gen5 example template.

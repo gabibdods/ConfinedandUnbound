@@ -1,0 +1,26 @@
+ya = Yuki::Animation
+# CrossPoison
+animation_user = ya.wait(0.1)
+animation_target = ya.create_sprite(:viewport, :sprite, Sprite, nil, [:load, 'CrossPoison', :animation], [:set_rect, 0, 0, 208, 192], [:zoom=, 0.75], [:set_origin, 104, 132])
+main_t_anim = ya.resolved
+animation_target.play_before(main_t_anim)
+main_t_anim.play_before(ya.move_sprite_position(0, :sprite, :target, :target))
+main_t_anim.play_before(ya.se_play('moves/CrossPoison'))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 0, 0, 208, 192))
+main_t_anim.play_before(ya.wait(0.055))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 208, 0, 208, 192))
+main_t_anim.play_before(ya.wait(0.055))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 416, 0, 208, 192))
+main_t_anim.play_before(ya.wait(0.055))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 624, 0, 208, 192))
+main_t_anim.play_before(ya.wait(0.055))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 832, 0, 208, 192))
+main_t_anim.play_before(ya.wait(0.055))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 1040, 0, 208, 192))
+main_t_anim.play_before(ya.wait(0.055))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 1248, 0, 208, 192))
+main_t_anim.play_before(ya.wait(0.1))
+animation_target.play_before(ya.dispose_sprite(:sprite))
+
+Battle::MoveAnimation.register_specific_animation(:cross_poison, :first_use, animation_user, animation_target)

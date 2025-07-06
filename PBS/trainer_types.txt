@@ -1,0 +1,903 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[POKEMONTRAINER_Red]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Leaf]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_Brendan]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONTRAINER_May]
+Name = Pokémon Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[RIVAL1]
+Name = Rival
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[RIVAL2]
+Name = Rival
+Gender = Male
+BaseMoney = 36
+#-------------------------------
+[AROMALADY]
+Name = Aroma Lady
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[BEAUTY]
+Name = Beauty
+Gender = Female
+BaseMoney = 56
+#-------------------------------
+[BIKER]
+Name = Biker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BIRDKEEPER]
+Name = Bird Keeper
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[BUGCATCHER]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[BURGLAR]
+Name = Burglar
+Gender = Male
+BaseMoney = 88
+SkillLevel = 32
+#-------------------------------
+[CHANNELER]
+Name = Channeler
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[CUEBALL]
+Name = Cue Ball
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[ENGINEER]
+Name = Engineer
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[FISHERMAN]
+Name = Fisherman
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[GAMBLER]
+Name = Gambler
+Gender = Male
+BaseMoney = 72
+SkillLevel = 32
+#-------------------------------
+[GENTLEMAN]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+#-------------------------------
+[HIKER]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[JUGGLER]
+Name = Juggler
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[LADY]
+Name = Lady
+Gender = Female
+BaseMoney = 160
+SkillLevel = 72
+#-------------------------------
+[PAINTER]
+Name = Painter
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[POKEMANIAC]
+Name = Poké Maniac
+Gender = Male
+BaseMoney = 64
+#-------------------------------
+[POKEMONBREEDER]
+Name = Pokémon Breeder
+Gender = Female
+BaseMoney = 48
+#-------------------------------
+[PROFESSOR]
+Name = Professor
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[ROCKER]
+Name = Rocker
+Gender = Male
+BaseMoney = 24
+#-------------------------------
+[RUINMANIAC]
+Name = Ruin Maniac
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SAILOR]
+Name = Sailor
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[SCIENTIST]
+Name = Scientist
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[SUPERNERD]
+Name = Super Nerd
+Gender = Male
+BaseMoney = 48
+#-------------------------------
+[TAMER]
+Name = Tamer
+Gender = Male
+BaseMoney = 40
+#-------------------------------
+[BLACKBELT]
+Name = Black Belt
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[CRUSHGIRL]
+Name = Crush Girl
+Gender = Female
+BaseMoney = 24
+#-------------------------------
+[CAMPER]
+Name = Camper
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[PICNICKER]
+Name = Picnicker
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[COOLTRAINER_M]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[COOLTRAINER_F]
+Name = Cool Trainer
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[YOUNGSTER]
+Name = Youngster
+Gender = Male
+BaseMoney = 16
+#-------------------------------
+[LASS]
+Name = Lass
+Gender = Female
+BaseMoney = 16
+#-------------------------------
+[POKEMONRANGER_M]
+Name = Pokémon Ranger
+Gender = Male
+BaseMoney = 60
+#-------------------------------
+[POKEMONRANGER_F]
+Name = Pokémon Ranger
+Gender = Female
+BaseMoney = 60
+#-------------------------------
+[PSYCHIC_M]
+Name = Psychic
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[PSYCHIC_F]
+Name = Psychic
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[SWIMMER_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER2_M]
+Name = Swimmer
+Gender = Male
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[SWIMMER2_F]
+Name = Swimmer
+Gender = Female
+BaseMoney = 16
+SkillLevel = 32
+#-------------------------------
+[TUBER_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER2_M]
+Name = Tuber
+Gender = Male
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[TUBER2_F]
+Name = Tuber
+Gender = Female
+BaseMoney = 4
+SkillLevel = 16
+#-------------------------------
+[COOLCOUPLE]
+Name = Cool Couple
+Gender = Unknown
+BaseMoney = 72
+SkillLevel = 48
+#-------------------------------
+[CRUSHKIN]
+Name = Crush Kin
+Gender = Unknown
+BaseMoney = 48
+#-------------------------------
+[SISANDBRO]
+Name = Sis and Bro
+Gender = Unknown
+BaseMoney = 16
+SkillLevel = 48
+#-------------------------------
+[TWINS]
+Name = Twins
+Gender = Unknown
+BaseMoney = 24
+#-------------------------------
+[YOUNGCOUPLE]
+Name = Young Couple
+Gender = Unknown
+BaseMoney = 60
+SkillLevel = 32
+#-------------------------------
+[TEAMROCKET_M]
+Name = Team Rocket
+Gender = Male
+BaseMoney = 32
+#-------------------------------
+[TEAMROCKET_F]
+Name = Team Rocket
+Gender = Female
+BaseMoney = 32
+#-------------------------------
+[ROCKETBOSS]
+Name = Rocket Boss
+Gender = Male
+BaseMoney = 100
+#-------------------------------
+[LEADER_Brock]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Misty]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Surge]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Erika]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Koga]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Sabrina]
+Name = Gym Leader
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Blaine]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Giovanni]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Gym Leader
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Lorelei]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Bruno]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Agatha]
+Name = Elite Four
+Gender = Female
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[ELITEFOUR_Lance]
+Name = Elite Four
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Elite
+VictoryBGM = Battle victory leader
+#-------------------------------
+[CHAMPION]
+Name = Champion
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
+#-------------------------------
+[RIVALJAKE]
+Name = Rival
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+BattleBGM = PBBJake_Battle_Rival_Battle_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN1R1]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2R1]
+Name = Camper
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3R1]
+Name = Picnicker
+Gender = Female
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1GF]
+Name = Student
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2GF]
+Name = Catcher
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3GF]
+Name = Camper
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4GF]
+Name = Picnicker
+Gender = Female
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBEMLinda]
+Name = Eclipse Member
+Gender = Female
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRNR2]
+Name = Lass
+Gender = Female
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1R3]
+Name = Student
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2R3]
+Name = Rookie
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3R3]
+Name = Enthusiast
+Gender = Female
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4R3]
+Name = Camper
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1G1]
+Name = Bouncer
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2G1]
+Name = Bouncer
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBGLG1]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 160
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1R5,Stan]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2R5,Jason]
+Name = Camper
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3R5,Lia]
+Name = Picnicker
+Gender = Female
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4R5,Brian]
+Name = Black Belt
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN5R5,Kyle]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN6R5,Allen]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN7R5,Gordon]
+Name = Camper
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[RIVALEJAKE1, Jake]
+Name = Rival
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+BattleBGM = PBBJake_Battle_Rival_Battle_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN1R6,Kent]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2R6,Silvester]
+Name = Bug Catcher
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3R6,Whitney]
+Name = Lass
+Gender = Female
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4R6,Johnson]
+Name = Student
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN5R6,Carl]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN1MTIGN,Mason]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN2MTIGN,Jay]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN3MTIGN,Louie]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN4MTIGN,Luey]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN5MTIGN,Harry]
+Name = Eclipse Admin
+Gender = Male
+BaseMoney = 80
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Admin_Battle_Maxie_Archie_Battle_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN6MTIGN,Darrel]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1G2,Lance]
+Name = Pyro
+Gender = Male
+BaseMoney = 48
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2G2,Bryce]
+Name = Pyro
+Gender = Male
+BaseMoney = 48
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3G2,Cole]
+Name = Pyro
+Gender = Male
+BaseMoney = 48
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4G2,Moe]
+Name = Pyro
+Gender = Male
+BaseMoney = 48
+SkillLevel = 50
+#-------------------------------
+[PBBGLG2,Sebastian]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 182
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1R7,Braden]
+Name = Cool Trainer
+Gender = Male
+BaseMoney = 60
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2R7,Sarah]
+Name = Lady
+Gender = Female
+BaseMoney = 60
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3R7,Melvin]
+Name = Rising Star
+Gender = Male
+BaseMoney = 60
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4R7,Lincoln]
+Name = Hipster
+Gender = Male
+BaseMoney = 16
+SkillLevel = 50
+#-------------------------------
+[PBBTRN5R7,Jess]
+Name = Rebellious Girl
+Gender = Female
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN6R7,Doug]
+Name = Salesman
+Gender = Male
+BaseMoney = 16
+SkillLevel = 50
+#-------------------------------
+[PBBLJ1R7,Buck]
+Name = Lumberjack 
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBLJ2R7,Al]
+Name = Lumberjack 
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBLJ3R7,Paul]
+Name = Lumberjack 
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1R8,Armen]
+Name = Bird Keeper
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2R8,Lusine]
+Name = Lady
+Gender = Female
+BaseMoney = 60
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3R8,Stacie]
+Name = Schoolgirl
+Gender = Female
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4R8,Dexter]
+Name = Schoolboy
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN5R8,Benson]
+Name = Lumberjack
+Gender = Male
+BaseMoney = 24
+SkillLevel = 50
+#-------------------------------
+[PBBTRN6R8,Nolan]
+Name = Gentleman
+Gender = Male
+BaseMoney = 72
+SkillLevel = 50
+#-------------------------------
+[PBBTRN7R8,Anson]
+Name = Hiker
+Gender = Male
+BaseMoney = 32
+SkillLevel = 50
+#-------------------------------
+[PBBTRN8R8,Gresham]
+Name = Black Belt
+Gender = Male
+BaseMoney = 48
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1RCB,Stan]
+Name = Artist
+Gender = Male
+BaseMoney = 72
+SkillLevel = 50
+#-------------------------------
+[PBBTRN1BP,James]
+Name = Beach Bum
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2BP,Hans]
+Name = Beach Bum
+Gender = Male
+BaseMoney = 16
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3BP,Thomas]
+Name = Beach Bum
+Gender = Male
+BaseMoney = 16
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4BP,Samantha]
+Name = Beach Babe
+Gender = Male
+BaseMoney = 16
+SkillLevel = 50
+#-------------------------------
+[PBBTRN5BP,Greg]
+Name = Beach Bum
+Gender = Male
+BaseMoney = 16
+SkillLevel = 50
+#-------------------------------
+[PBBEC1RC,Jordan]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBEC2RC,McCoy]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBEC3RC,Corbin]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBEC4RC,Brunden]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBEC5RC,Finley]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBEC6RC,Colbert]
+Name = Eclipse Grunt
+Gender = Male
+BaseMoney = 40
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Grunt_Battle_Regi_Trio_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBEARC,Gabe]
+Name = Eclipse Admin
+Gender = Male
+BaseMoney = 80
+SkillLevel = 50
+IntroBGM = PBBTeam_Eclipse_Encounter_Mt._Chimney_NICK_ROESLEIN_OLEKSIAK
+BattleBGM = PBBTeam_Eclipse_Admin_Battle_Maxie_Archie_Battle_NICK_ROESLEIN_OLEKSIAK
+VictoryBGM = PBBImportant_Battle_Victory_BGM_Persona_5_Victory
+#-------------------------------
+[PBBTRN1G3,Ralf]
+Name = Beach Bum
+Gender = Male
+BaseMoney = 18
+SkillLevel = 50
+#-------------------------------
+[PBBTRN2G3,Cameron]
+Name = Beach Bum
+Gender = Male
+BaseMoney = 18
+SkillLevel = 50
+#-------------------------------
+[PBBTRN3G3,Darla]
+Name = Beach Babe
+Gender = Female
+BaseMoney = 18
+SkillLevel = 50
+#-------------------------------
+[PBBTRN4G3,Roland]
+Name = Beach Bum
+Gender = Male
+BaseMoney = 18
+SkillLevel = 50
+#-------------------------------
+[PBBGLG3,Quentin]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 160
+SkillLevel = 50

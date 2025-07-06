@@ -1,0 +1,6 @@
+Name       = Lin's BP System
+Version    = 1.0.7
+Essentials = 21.1
+Link       = https://reliccastle.com/resources/1405/
+Optional   = Lin's Friend Safari,1.0.11
+Credits    = LinKazamine, Maruno

@@ -1,0 +1,2584 @@
+﻿
+#-------------------------------
+[0]
+species = SUNKERN
+item = TWISTEDSPOON
+nature = NAUGHTY
+evs = HP, DEF, SA
+moves = FACADE, SOLARBEAM, NATUREPOWER, TOXIC
+#-------------------------------
+[1]
+species = AZURILL
+item = MIRACLESEED
+nature = LAX
+evs = HP, ATK, DEF
+moves = SLAM, SECRETPOWER, BLIZZARD, FACADE
+#-------------------------------
+[2]
+species = KRICKETOT
+item = WATMELBERRY
+nature = MILD
+evs = DEF, SPD, SD
+moves = GROWL, BIDE, ,
+#-------------------------------
+[3]
+species = KRICKETOT
+item = WATMELBERRY
+nature = BRAVE
+evs = HP
+moves = GROWL, BIDE, ,
+#-------------------------------
+[4]
+species = KRICKETOT
+item = SHELLBELL
+nature = JOLLY
+evs = ATK, SPD
+moves = GROWL, BIDE, ,
+#-------------------------------
+[5]
+species = CATERPIE
+item = PECHABERRY
+nature = TIMID
+evs = HP, ATK, SPD, SD
+moves = TACKLE, STRINGSHOT, ,
+#-------------------------------
+[6]
+species = WEEDLE
+item = ORANBERRY
+nature = BOLD
+evs = ATK, DEF
+moves = POISONSTING, STRINGSHOT, ,
+#-------------------------------
+[7]
+species = WURMPLE
+item = BELUEBERRY
+nature = NAIVE
+evs = SPD, SA, SD
+moves = TACKLE, STRINGSHOT, POISONSTING,
+#-------------------------------
+[8]
+species = WURMPLE
+item = MIRACLESEED
+nature = DOCILE
+evs = ATK, DEF, SPD, SA
+moves = TACKLE, STRINGSHOT, POISONSTING,
+#-------------------------------
+[9]
+species = RALTS
+item = TWISTEDSPOON
+nature = RASH
+evs = HP, ATK, SPD
+moves = SECRETPOWER, THUNDERBOLT, SAFEGUARD, LIGHTSCREEN
+#-------------------------------
+[10]
+species = RALTS
+item = SOULDEW
+nature = SERIOUS
+evs = SA
+moves = LIGHTSCREEN, PROTECT, SHADOWBALL, DISABLE
+#-------------------------------
+[11]
+species = RALTS
+item = MENTALHERB
+nature = HASTY
+evs = HP, ATK, DEF, SPD, SA
+moves = MEANLOOK, GROWL, MEMENTO, PSYCHIC
+#-------------------------------
+[12]
+species = MAGIKARP
+item = TWISTEDSPOON
+nature = TIMID
+evs = ATK, DEF, SPD, SD
+moves = SPLASH, , ,
+#-------------------------------
+[13]
+species = FEEBAS
+item = ORANBERRY
+nature = BOLD
+evs = HP, DEF, SD
+moves = ICEBEAM, CONFUSERAY, HYPNOSIS, SURF
+#-------------------------------
+[14]
+species = FEEBAS
+item = MENTALHERB
+nature = RASH
+evs = HP, DEF, SPD, SA
+moves = BLIZZARD, DRAGONBREATH, WATERPULSE, CONFUSERAY
+#-------------------------------
+[15]
+species = FEEBAS
+item = WHITEHERB
+nature = CALM
+evs = HP, ATK, DEF, SA
+moves = DRAGONBREATH, FACADE, SECRETPOWER, MUDSPORT
+#-------------------------------
+[16]
+species = PICHU
+item = ORANBERRY
+nature = QUIRKY
+evs = DEF, SD
+moves = CHARGE, FACADE, PROTECT, TOXIC
+#-------------------------------
+[17]
+species = PICHU
+item = BLACKBELT
+nature = BRAVE
+evs = DEF, SPD, SA
+moves = DOUBLESLAP, TOXIC, ENCORE, IRONTAIL
+#-------------------------------
+[18]
+species = PICHU
+item = WEPEARBERRY
+nature = TIMID
+evs = ATK, SD
+moves = LIGHTSCREEN, ENCORE, TOXIC, IRONTAIL
+#-------------------------------
+[19]
+species = WOOPER
+item = MAGOBERRY
+nature = RELAXED
+evs = HP, ATK, SPD, SA, SD
+moves = TAILWHIP, EARTHQUAKE, WATERPULSE, MUDSPORT
+#-------------------------------
+[20]
+species = WOOPER
+item = NOMELBERRY
+nature = RASH
+evs = HP, ATK, DEF, SPD, SD
+moves = ICEBEAM, CURSE, PROTECT, WATERPULSE
+#-------------------------------
+[21]
+species = TYROGUE
+item = SPELONBERRY
+nature = LAX
+evs = ATK, DEF
+moves = STRENGTH, MINDREADER, HELPINGHAND, SECRETPOWER
+#-------------------------------
+[22]
+species = TYROGUE
+item = ORANBERRY
+nature = LAX
+evs = ATK, DEF, SA
+moves = TOXIC, HIGHJUMPKICK, STRENGTH, FACADE
+#-------------------------------
+[23]
+species = SENTRET
+item = SALACBERRY
+nature = BRAVE
+evs = HP, SPD, SA
+moves = SECRETPOWER, TOXIC, DOUBLEEDGE, ASSIST
+#-------------------------------
+[24]
+species = SENTRET
+item = MAGOSTBERRY
+nature = IMPISH
+evs = ATK, DEF
+moves = DOUBLEEDGE, DIG, TRICK, DEFENSECURL
+#-------------------------------
+[25]
+species = SENTRET
+item = KINGSROCK
+nature = MILD
+evs = HP
+moves = DOUBLEEDGE, SLASH, FACADE, ASSIST
+#-------------------------------
+[26]
+species = CLEFFA
+item = CHARCOAL
+nature = HARDY
+evs = SPD, SA
+moves = PSYCHIC, SUBSTITUTE, SAFEGUARD, SHADOWBALL
+#-------------------------------
+[27]
+species = POOCHYENA
+item = POISONBARB
+nature = CALM
+evs = DEF, SA, SD
+moves = LEER, ASTONISH, YAWN, PROTECT
+#-------------------------------
+[28]
+species = POOCHYENA
+item = PECHABERRY
+nature = HASTY
+evs = HP, ATK, DEF, SA
+moves = TOXIC, POISONFANG, YAWN, ASTONISH
+#-------------------------------
+[29]
+species = POOCHYENA
+item = APICOTBERRY
+nature = IMPISH
+evs = DEF, SPD
+moves = COVET, FACADE, SECRETPOWER, YAWN
+#-------------------------------
+[30]
+species = LOTAD
+item = DURINBERRY
+nature = CALM
+evs = HP, ATK, SPD, SA, SD
+moves = SYNTHESIS, SOLARBEAM, PROTECT, SURF
+#-------------------------------
+[31]
+species = HAPPINY
+item = PECHABERRY
+nature = DOCILE
+evs = ATK, SPD, SA
+moves = SHOCKWAVE, SUBSTITUTE, DOUBLEEDGE, PROTECT
+#-------------------------------
+[32]
+species = HAPPINY
+item = METALPOWDER
+nature = HASTY
+evs = HP, DEF, SA, SD
+moves = DOUBLEEDGE, LIGHTSCREEN, SHADOWBALL, WATERPULSE
+#-------------------------------
+[33]
+species = HAPPINY
+item = WIKIBERRY
+nature = HASTY
+evs = HP, DEF, SPD, SA, SD
+moves = DOUBLEEDGE, SUBSTITUTE, HEALBELL, LIGHTSCREEN
+#-------------------------------
+[34]
+species = MAKUHITA
+item = HARDSTONE
+nature = BRAVE
+evs = HP, DEF, SPD
+moves = DETECT, DYNAMICPUNCH, FEINTATTACK, FACADE
+#-------------------------------
+[35]
+species = MAKUHITA
+item = LEFTOVERS
+nature = CAREFUL
+evs = HP, ATK, DEF, SPD, SA
+moves = FOCUSENERGY, DETECT, REVENGE, SANDATTACK
+#-------------------------------
+[36]
+species = ZIGZAGOON
+item = LEFTOVERS
+nature = CALM
+evs = HP, ATK, SA, SD
+moves = SURF, IRONTAIL, PROTECT, BLIZZARD
+#-------------------------------
+[37]
+species = ZIGZAGOON
+item = LEFTOVERS
+nature = NAUGHTY
+evs = HP, SPD
+moves = SHADOWBALL, WATERPULSE, IRONTAIL, THIEF
+#-------------------------------
+[38]
+species = ZIGZAGOON
+item = SHELLBELL
+nature = BOLD
+evs = HP, ATK, DEF, SPD, SA, SD
+moves = TICKLE, SURF, SECRETPOWER, PURSUIT
+#-------------------------------
+[39]
+species = WHISMUR
+item = SHELLBELL
+nature = BOLD
+evs = ATK, SPD, SA, SD
+moves = FACADE, SNORE, BLIZZARD, TAKEDOWN
+#-------------------------------
+[40]
+species = WHISMUR
+item = TWISTEDSPOON
+nature = DOCILE
+evs = HP, ATK, SA, SD
+moves = EXTRASENSORY, ICEBEAM, SOLARBEAM, TOXIC
+#-------------------------------
+[41]
+species = WHISMUR
+item = KINGSROCK
+nature = QUIRKY
+evs = HP, DEF, SA
+moves = ICEBEAM, FLAMETHROWER, BLIZZARD, PROTECT
+#-------------------------------
+[42]
+species = ZUBAT
+item = RAWSTBERRY
+nature = LONELY
+evs = DEF, SA, SD
+moves = WHIRLWIND, LEECHLIFE, FEINTATTACK, CURSE
+#-------------------------------
+[43]
+species = TOGEPI
+item = SHELLBELL
+nature = LAX
+evs = ATK, DEF, SA, SD
+moves = PECK, FORESIGHT, SOLARBEAM, SECRETPOWER
+#-------------------------------
+[44]
+species = TOGEPI
+item = EXPSHARE
+nature = BOLD
+evs = HP, ATK, SPD
+moves = PROTECT, MIRRORMOVE, FUTURESIGHT, TOXIC
+#-------------------------------
+[45]
+species = STARLY
+item = ORANBERRY
+nature = IMPISH
+evs = HP, ATK, DEF, SA, SD
+moves = THIEF, PURSUIT, DOUBLEEDGE, FURYATTACK
+#-------------------------------
+[46]
+species = STARLY
+item = PERSIMBERRY
+nature = JOLLY
+evs = ATK
+moves = TOXIC, DOUBLEEDGE, SANDATTACK, STEELWING
+#-------------------------------
+[47]
+species = STARLY
+item = WEPEARBERRY
+nature = QUIRKY
+evs = HP, ATK, SPD, SD
+moves = FORESIGHT, THIEF, FURYATTACK, PURSUIT
+#-------------------------------
+[48]
+species = STARLY
+item = SALACBERRY
+nature = JOLLY
+evs = HP, ATK, SPD, SD
+moves = ASTONISH, TOXIC, FEATHERDANCE, DOUBLEEDGE
+#-------------------------------
+[49]
+species = SPINARAK
+item = SCOPELENS
+nature = SERIOUS
+evs = HP, ATK, DEF, SPD, SA
+moves = PURSUIT, SOLARBEAM, DISABLE, SLUDGEBOMB
+#-------------------------------
+[50]
+species = SPINARAK
+item = ORANBERRY
+nature = MODEST
+evs = HP, ATK, DEF, SA
+moves = DISABLE, SIGNALBEAM, PROTECT, BATONPASS
+#-------------------------------
+[51]
+species = SPINARAK
+item = PECHABERRY
+nature = LONELY
+evs = ATK, DEF, SA, SD
+moves = SLUDGEBOMB, THIEF, FACADE, DIG
+#-------------------------------
+[52]
+species = SPINARAK
+item = LEFTOVERS
+nature = JOLLY
+evs = ATK, SA
+moves = PSYBEAM, PROTECT, DISABLE, SIGNALBEAM
+#-------------------------------
+[53]
+species = SPINARAK
+item = IAPAPABERRY
+nature = RELAXED
+evs = HP, DEF, SA
+moves = PSYBEAM, SOLARBEAM, PURSUIT, PSYCHIC
+#-------------------------------
+[54]
+species = SPINARAK
+item = FOCUSBAND
+nature = DOCILE
+evs = DEF, SD
+moves = SIGNALBEAM, DIG, SONICBOOM, PROTECT
+#-------------------------------
+[55]
+species = HOPPIP
+item = ORANBERRY
+nature = IMPISH
+evs = ATK, SPD, SD
+moves = AMNESIA, TOXIC, SPLASH, SOLARBEAM
+#-------------------------------
+[56]
+species = HOPPIP
+item = GANLONBERRY
+nature = BRAVE
+evs = HP, ATK
+moves = DOUBLEEDGE, AMNESIA, ENCORE, PROTECT
+#-------------------------------
+[57]
+species = SLUGMA
+item = EXPSHARE
+nature = CALM
+evs = HP, ATK, DEF
+moves = SECRETPOWER, FACADE, PROTECT, REFLECT
+#-------------------------------
+[58]
+species = SLUGMA
+item = LEFTOVERS
+nature = BASHFUL
+evs = HP, SPD, SA
+moves = FACADE, REFLECT, LIGHTSCREEN, OVERHEAT
+#-------------------------------
+[59]
+species = SLUGMA
+item = ENIGMABERRY
+nature = QUIET
+evs = HP, ATK, DEF, SPD, SA, SD
+moves = PROTECT, FACADE, SMOG, YAWN
+#-------------------------------
+[60]
+species = BIDOOF
+item = WEPEARBERRY
+nature = BRAVE
+evs = ATK, DEF, SA, SD
+moves = CRABHAMMER, IRONTAIL, TACKLE, DOUBLEEDGE
+#-------------------------------
+[61]
+species = BIDOOF
+item = GANLONBERRY
+nature = NAIVE
+evs = HP, DEF, SPD, SD
+moves = PROTECT, CRABHAMMER, DOUBLEEDGE, QUICKATTACK
+#-------------------------------
+[62]
+species = BIDOOF
+item = LEFTOVERS
+nature = NAUGHTY
+evs = HP, SPD, SA
+moves = DOUBLEEDGE, SECRETPOWER, GROWL, ICEBEAM
+#-------------------------------
+[63]
+species = BIDOOF
+item = RAWSTBERRY
+nature = BRAVE
+evs = ATK, SPD, SA
+moves = DOUBLEEDGE, THUNDER, ROLLOUT, DIG
+#-------------------------------
+[64]
+species = BIDOOF
+item = FOCUSBAND
+nature = HASTY
+evs = DEF, SPD, SA
+moves = SHADOWBALL, DOUBLEEDGE, WATERSPORT, CRABHAMMER
+#-------------------------------
+[65]
+species = BIDOOF
+item = WATMELBERRY
+nature = MODEST
+evs = ATK, SPD, SA
+moves = PROTECT, ROLLOUT, DOUBLEEDGE, IRONTAIL
+#-------------------------------
+[66]
+species = PIDGEY
+item = SPELLTAG
+nature = BOLD
+evs = DEF, SPD, SD
+moves = FEINTATTACK, FLY, PROTECT, FACADE
+#-------------------------------
+[67]
+species = PIDGEY
+item = ORANBERRY
+nature = CALM
+evs = HP, SPD
+moves = TOXIC, PURSUIT, AERIALACE, STEELWING
+#-------------------------------
+[68]
+species = PIDGEY
+item = BLACKBELT
+nature = BASHFUL
+evs = ATK, DEF, SD
+moves = THIEF, SECRETPOWER, FACADE, TOXIC
+#-------------------------------
+[69]
+species = RATTATA
+item = LIGHTBALL
+nature = HASTY
+evs = HP, SPD, SA, SD
+moves = FACADE, UPROAR, SECRETPOWER, BITE
+#-------------------------------
+[70]
+species = RATTATA
+item = MENTALHERB
+nature = RELAXED
+evs = SD
+moves = THIEF, PROTECT, FLAMEWHEEL, SHOCKWAVE
+#-------------------------------
+[71]
+species = SKITTY
+item = FIGYBERRY
+nature = BOLD
+evs = HP, ATK, DEF, SPD, SA, SD
+moves = SUBSTITUTE, BATONPASS, SECRETPOWER, SHOCKWAVE
+#-------------------------------
+[72]
+species = SKITTY
+item = LEFTOVERS
+nature = JOLLY
+evs = ATK, DEF, SPD, SD
+moves = SAFEGUARD, SUBSTITUTE, WATERPULSE, IRONTAIL
+#-------------------------------
+[73]
+species = SPEAROW
+item = ORANBERRY
+nature = ADAMANT
+evs = ATK, SA, SD
+moves = SKYATTACK, AERIALACE, PROTECT, TRIATTACK
+#-------------------------------
+[74]
+species = SPEAROW
+item = KELPSYBERRY
+nature = NAIVE
+evs = ATK, DEF, SPD, SA
+moves = ASTONISH, PROTECT, SKYATTACK, TOXIC
+#-------------------------------
+[75]
+species = SPEAROW
+item = MYSTICWATER
+nature = CALM
+evs = HP, ATK, DEF, SPD
+moves = SECRETPOWER, TRIATTACK, SKYATTACK, THIEF
+#-------------------------------
+[76]
+species = SPEAROW
+item = WHITEHERB
+nature = JOLLY
+evs = ATK, DEF, SPD, SD
+moves = FACADE, TRIATTACK, SKYATTACK, TOXIC
+#-------------------------------
+[77]
+species = HOOTHOOT
+item = CHARCOAL
+nature = CAREFUL
+evs = DEF, SPD, SA
+moves = SKYATTACK, PSYCHIC, AERIALACE, FEINTATTACK
+#-------------------------------
+[78]
+species = LEDYBA
+item = FIGYBERRY
+nature = RASH
+evs = HP, SD
+moves = SAFEGUARD, BRICKBREAK, FOCUSPUNCH, SILVERWIND
+#-------------------------------
+[79]
+species = LEDYBA
+item = AGUAVBERRY
+nature = LONELY
+evs = ATK, SPD
+moves = AERIALACE, TACKLE, SECRETPOWER, FACADE
+#-------------------------------
+[80]
+species = LEDYBA
+item = SHELLBELL
+nature = ADAMANT
+evs = HP, SPD, SA, SD
+moves = FOCUSPUNCH, LIGHTSCREEN, SILVERWIND, TOXIC
+#-------------------------------
+[81]
+species = NINCADA
+item = BRIGHTPOWDER
+nature = CALM
+evs = ATK, DEF, SPD, SD
+moves = SOLARBEAM, TOXIC, AERIALACE, ENDURE
+#-------------------------------
+[82]
+species = NINCADA
+item = MAGNET
+nature = ADAMANT
+evs = DEF, SPD, SA
+moves = GUST, PROTECT, SILVERWIND, ENDURE
+#-------------------------------
+[83]
+species = NINCADA
+item = MAGOSTBERRY
+nature = QUIET
+evs = DEF
+moves = AERIALACE, SOLARBEAM, SHADOWBALL, GUST
+#-------------------------------
+[84]
+species = NINCADA
+item = DRAGONSCALE
+nature = NAIVE
+evs = ATK, DEF, SPD, SA, SD
+moves = PROTECT, TOXIC, FEINTATTACK, SOLARBEAM
+#-------------------------------
+[85]
+species = NINCADA
+item = MAGNET
+nature = HASTY
+evs = DEF, SPD, SD
+moves = LEECHLIFE, ENDURE, AERIALACE, HARDEN
+#-------------------------------
+[86]
+species = SURSKIT
+item = WHITEHERB
+nature = MODEST
+evs = SPD, SD
+moves = MUDSHOT, WATERPULSE, FORESIGHT, SOLARBEAM
+#-------------------------------
+[87]
+species = TAILLOW
+item = LEFTOVERS
+nature = SASSY
+evs = HP, ATK
+moves = AERIALACE, FACADE, SKYATTACK, SECRETPOWER
+#-------------------------------
+[88]
+species = TAILLOW
+item = LIGHTBALL
+nature = MODEST
+evs = HP, DEF, SD
+moves = PROTECT, PURSUIT, MIRRORMOVE, FOCUSENERGY
+#-------------------------------
+[89]
+species = TAILLOW
+item = ORANBERRY
+nature = NAIVE
+evs = HP, SPD, SD
+moves = RAGE, PURSUIT, STEELWING, SKYATTACK
+#-------------------------------
+[90]
+species = TAILLOW
+item = POISONBARB
+nature = LAX
+evs = HP, ATK, DEF, SA
+moves = PROTECT, AERIALACE, PURSUIT, SKYATTACK
+#-------------------------------
+[91]
+species = WINGULL
+item = BLACKGLASSES
+nature = BASHFUL
+evs = HP, DEF, SA
+moves = TWISTER, STEELWING, WATERGUN, AERIALACE
+#-------------------------------
+[92]
+species = WINGULL
+item = SEAINCENSE
+nature = QUIRKY
+evs = HP, ATK, SPD, SA
+moves = WATERPULSE, PROTECT, AERIALACE, SECRETPOWER
+#-------------------------------
+[93]
+species = NIDORANmA
+item = LEFTOVERS
+nature = CALM
+evs = DEF, SPD, SA
+moves = BLIZZARD, DIG, STRENGTH, THUNDER
+#-------------------------------
+[94]
+species = NIDORANfE
+item = LEFTOVERS
+nature = MILD
+evs = ATK, DEF
+moves = IRONTAIL, PROTECT, TOXIC, AERIALACE
+#-------------------------------
+[95]
+species = NIDORANfE
+item = POISONBARB
+nature = MILD
+evs = DEF, SPD
+moves = WATERPULSE, DISABLE, PROTECT, BLIZZARD
+#-------------------------------
+[96]
+species = CHERUBI
+item = LEFTOVERS
+nature = TIMID
+evs = HP, ATK, DEF, SA, SD
+moves = TICKLE, SOLARBEAM, SAFEGUARD, AROMATHERAPY
+#-------------------------------
+[97]
+species = CHERUBI
+item = HONDEWBERRY
+nature = NAUGHTY
+evs = HP, ATK, SPD
+moves = FACADE, GIGADRAIN, TICKLE, AROMATHERAPY
+#-------------------------------
+[98]
+species = MAREEP
+item = LEFTOVERS
+nature = TIMID
+evs = ATK, SD
+moves = TAKEDOWN, PROTECT, REFLECT, CHARGE
+#-------------------------------
+[99]
+species = MAREEP
+item = PECHABERRY
+nature = QUIRKY
+evs = ATK, SPD
+moves = ODORSLEUTH, TAKEDOWN, SECRETPOWER, LIGHTSCREEN
+#-------------------------------
+[100]
+species = MAREEP
+item = ORANBERRY
+nature = BOLD
+evs = HP, DEF, SA, SD
+moves = FACADE, SAFEGUARD, CHARGE, LIGHTSCREEN
+#-------------------------------
+[101]
+species = MAREEP
+item = ORANBERRY
+nature = IMPISH
+evs = HP, DEF, SD
+moves = TAKEDOWN, CHARGE, PROTECT, REFLECT
+#-------------------------------
+[102]
+species = MAREEP
+item = PECHABERRY
+nature = NAUGHTY
+evs = SPD, SA, SD
+moves = BODYSLAM, GROWL, TOXIC, TAKEDOWN
+#-------------------------------
+[103]
+species = MAREEP
+item = LEFTOVERS
+nature = LAX
+evs = SA, SD
+moves = LIGHTSCREEN, REFLECT, CHARGE, FACADE
+#-------------------------------
+[104]
+species = SLAKOTH
+item = WHITEHERB
+nature = HASTY
+evs = HP, SPD, SD
+moves = SLEEPTALK, AERIALACE, SHADOWBALL, SLASH
+#-------------------------------
+[105]
+species = SLAKOTH
+item = LEFTOVERS
+nature = MILD
+evs = HP, SPD, SA, SD
+moves = SHOCKWAVE, BODYSLAM, WATERPULSE, CRUSHCLAW
+#-------------------------------
+[106]
+species = MEDITITE
+item = AGUAVBERRY
+nature = NAIVE
+evs = ATK, DEF, SPD, SA
+moves = DYNAMICPUNCH, FOCUSPUNCH, SHADOWBALL, THUNDERPUNCH
+#-------------------------------
+[107]
+species = MEDITITE
+item = ORANBERRY
+nature = LONELY
+evs = ATK, DEF, SPD, SA
+moves = ICEPUNCH, ROCKTOMB, REFLECT, BIDE
+#-------------------------------
+[108]
+species = MEDITITE
+item = IAPAPABERRY
+nature = BASHFUL
+evs = SPD, SA
+moves = ICEPUNCH, REFLECT, PROTECT, SHADOWBALL
+#-------------------------------
+[109]
+species = MEDITITE
+item = DRAGONSCALE
+nature = HARDY
+evs = ATK, DEF
+moves = FIREPUNCH, STRENGTH, MEDITATE, PSYCHIC
+#-------------------------------
+[110]
+species = BUDEW
+item = ORANBERRY
+nature = JOLLY
+evs = ATK, SA
+moves = GROWTH, EXTRASENSORY, SLUDGEBOMB, OVERHEAT
+#-------------------------------
+[111]
+species = BUDEW
+item = LEFTOVERS
+nature = QUIET
+evs = HP, SPD
+moves = SECRETPOWER, TOXIC, GROWTH, RAZORLEAF
+#-------------------------------
+[112]
+species = PARAS
+item = SILVERPOWDER
+nature = TIMID
+evs = ATK, SPD, SD
+moves = FALSESWIPE, SCREECH, PURSUIT, LIGHTSCREEN
+#-------------------------------
+[113]
+species = CHINGLING
+item = POISONBARB
+nature = RELAXED
+evs = HP
+moves = HYPNOSIS, SAFEGUARD, DISABLE, SHADOWBALL
+#-------------------------------
+[114]
+species = CHINGLING
+item = MENTALHERB
+nature = TIMID
+evs = DEF, SPD, SD
+moves = CURSE, RECOVER, PROTECT, TOXIC
+#-------------------------------
+[115]
+species = CHINGLING
+item = MYSTICWATER
+nature = RELAXED
+evs = SPD
+moves = HYPNOSIS, TOXIC, SHOCKWAVE, RECOVER
+#-------------------------------
+[116]
+species = CHINGLING
+item = EVERSTONE
+nature = DOCILE
+evs = ATK, SD
+moves = REFLECT, SHOCKWAVE, HYPNOSIS, DISABLE
+#-------------------------------
+[117]
+species = RIOLU
+item = MAGOSTBERRY
+nature = SERIOUS
+evs = ATK, DEF, SPD, SA
+moves = ENDURE, SKYUPPERCUT, BLAZEKICK, BITE
+#-------------------------------
+[118]
+species = RIOLU
+item = PINAPBERRY
+nature = DOCILE
+evs = HP, ATK, DEF, SPD
+moves = PROTECT, FOCUSPUNCH, DETECT, FORESIGHT
+#-------------------------------
+[119]
+species = RIOLU
+item = APICOTBERRY
+nature = BASHFUL
+evs = HP, ATK, DEF, SPD, SA
+moves = STRENGTH, ENDURE, IRONTAIL, HIGHJUMPKICK
+#-------------------------------
+[120]
+species = EKANS
+item = ORANBERRY
+nature = QUIET
+evs = HP, ATK, DEF, SD
+moves = POISONFANG, PROTECT, SPITE, LEER
+#-------------------------------
+[121]
+species = EKANS
+item = WEPEARBERRY
+nature = RELAXED
+evs = SA, SD
+moves = PURSUIT, PROTECT, SPITE, IRONTAIL
+#-------------------------------
+[122]
+species = EKANS
+item = LEFTOVERS
+nature = MILD
+evs = DEF, SD
+moves = LEER, GIGADRAIN, STRENGTH, PROTECT
+#-------------------------------
+[123]
+species = BARBOACH
+item = LUCKYEGG
+nature = HASTY
+evs = SA, SD
+moves = SPARK, EARTHQUAKE, TOXIC, THRASH
+#-------------------------------
+[124]
+species = BARBOACH
+item = WHITEHERB
+nature = HASTY
+evs = ATK, SPD, SA, SD
+moves = TOXIC, SPARK, BLIZZARD, THRASH
+#-------------------------------
+[125]
+species = MEOWTH
+item = SHELLBELL
+nature = SASSY
+evs = HP, DEF, SA
+moves = CHARM, SECRETPOWER, PSYCHUP, TOXIC
+#-------------------------------
+[126]
+species = MEOWTH
+item = ORANBERRY
+nature = CALM
+evs = DEF, SA, SD
+moves = FACADE, SHADOWBALL, SPITE, CHARM
+#-------------------------------
+[127]
+species = PINECO
+item = LEFTOVERS
+nature = MODEST
+evs = SA
+moves = SANDTOMB, SOLARBEAM, STRENGTH, PINMISSILE
+#-------------------------------
+[128]
+species = TRAPINCH
+item = LEPPABERRY
+nature = TIMID
+evs = HP, SA, SD
+moves = FACADE, ROCKTOMB, PROTECT, SECRETPOWER
+#-------------------------------
+[129]
+species = TRAPINCH
+item = BLACKBELT
+nature = RELAXED
+evs = HP
+moves = SOLARBEAM, GUST, STRENGTH, HYPERBEAM
+#-------------------------------
+[130]
+species = TRAPINCH
+item = DRAGONSCALE
+nature = RELAXED
+evs = HP, DEF, SPD
+moves = STRENGTH, TOXIC, ROCKTOMB, SOLARBEAM
+#-------------------------------
+[131]
+species = TRAPINCH
+item = BLUKBERRY
+nature = RELAXED
+evs = ATK, SA
+moves = HYPERBEAM, TOXIC, FACADE, GUST
+#-------------------------------
+[132]
+species = TRAPINCH
+item = BLACKBELT
+nature = ADAMANT
+evs = ATK, DEF, SA
+moves = BITE, SOLARBEAM, PROTECT, DIG
+#-------------------------------
+[133]
+species = SPHEAL
+item = ORANBERRY
+nature = ADAMANT
+evs = ATK, SA, SD
+moves = ICEBEAM, PROTECT, GROWL, SECRETPOWER
+#-------------------------------
+[134]
+species = SPHEAL
+item = EXPSHARE
+nature = QUIET
+evs = SA, SD
+moves = BLIZZARD, EARTHQUAKE, SURF, DIVE
+#-------------------------------
+[135]
+species = SPHEAL
+item = ORANBERRY
+nature = SERIOUS
+evs = ATK, SD
+moves = YAWN, SECRETPOWER, WATERSPORT, ROCKSLIDE
+#-------------------------------
+[136]
+species = BONSLY
+item = SHARPBEAK
+nature = LAX
+evs = HP, ATK, SPD, SD
+moves = DEFENSECURL, SELFDESTRUCT, DIG, FACADE
+#-------------------------------
+[137]
+species = SHROOMISH
+item = PINAPBERRY
+nature = BOLD
+evs = HP, DEF, SPD
+moves = SECRETPOWER, CHARM, SWAGGER, SAFEGUARD
+#-------------------------------
+[138]
+species = SHROOMISH
+item = MYSTICWATER
+nature = SASSY
+evs = HP, ATK, DEF, SA
+moves = CHARM, PROTECT, FAKETEARS, TACKLE
+#-------------------------------
+[139]
+species = ELECTRIKE
+item = CHERIBERRY
+nature = SASSY
+evs = HP, DEF, SD
+moves = TOXIC, THUNDER, HEADBUTT, THUNDERWAVE
+#-------------------------------
+[140]
+species = SHUPPET
+item = FOCUSBAND
+nature = DOCILE
+evs = HP, SD
+moves = DISABLE, PROTECT, IMPRISON, SHADOWBALL
+#-------------------------------
+[141]
+species = SHUPPET
+item = PINAPBERRY
+nature = TIMID
+evs = HP, ATK, SPD, SD
+moves = PROTECT, IMPRISON, TOXIC, SECRETPOWER
+#-------------------------------
+[142]
+species = SHUPPET
+item = BELUEBERRY
+nature = ADAMANT
+evs = ATK, SPD
+moves = DISABLE, SECRETPOWER, IMPRISON, PSYCHIC
+#-------------------------------
+[143]
+species = SHUPPET
+item = LUMBERRY
+nature = IMPISH
+evs = HP, ATK, DEF, SD
+moves = SECRETPOWER, ASTONISH, SHOCKWAVE, TOXIC
+#-------------------------------
+[144]
+species = SHUPPET
+item = SOOTHEBELL
+nature = QUIET
+evs = HP, ATK, DEF, SA
+moves = IMPRISON, THUNDERBOLT, TOXIC, PROTECT
+#-------------------------------
+[145]
+species = VULPIX
+item = TAMATOBERRY
+nature = CAREFUL
+evs = ATK, SPD, SA, SD
+moves = DISABLE, TAILWHIP, HEATWAVE, HYPNOSIS
+#-------------------------------
+[146]
+species = VULPIX
+item = NOMELBERRY
+nature = IMPISH
+evs = SPD
+moves = OVERHEAT, DIG, HYPNOSIS, FEINTATTACK
+#-------------------------------
+[147]
+species = SANDSHREW
+item = ORANBERRY
+nature = LAX
+evs = HP, ATK, SPD, SA
+moves = SWORDSDANCE, METALCLAW, STRENGTH, IRONTAIL
+#-------------------------------
+[148]
+species = SANDSHREW
+item = CHARCOAL
+nature = HASTY
+evs = HP, SPD, SA
+moves = ROCKSLIDE, SWORDSDANCE, STRENGTH, SAFEGUARD
+#-------------------------------
+[149]
+species = SANDSHREW
+item = LEFTOVERS
+nature = LAX
+evs = ATK, SPD
+moves = PROTECT, BRICKBREAK, SWORDSDANCE, TOXIC
+#-------------------------------
+[150]
+species = POLIWAG
+item = LEFTOVERS
+nature = TIMID
+evs = HP, ATK, SA, SD
+moves = SECRETPOWER, PROTECT, SURF, FACADE
+#-------------------------------
+[151]
+species = BELLSPROUT
+item = LEFTOVERS
+nature = NAUGHTY
+evs = SD
+moves = ENCORE, REFLECT, SLUDGEBOMB, TOXIC
+#-------------------------------
+[152]
+species = BELLSPROUT
+item = SHARPBEAK
+nature = BRAVE
+evs = HP
+moves = SECRETPOWER, ENCORE, LEECHLIFE, PROTECT
+#-------------------------------
+[153]
+species = GEODUDE
+item = HONDEWBERRY
+nature = GENTLE
+evs = HP, ATK, DEF, SA
+moves = BLOCK, ROCKTOMB, ROCKSLIDE, FIREBLAST
+#-------------------------------
+[154]
+species = GEODUDE
+item = LEFTOVERS
+nature = HARDY
+evs = ATK, SA
+moves = ROCKSLIDE, BLOCK, TOXIC, FIREBLAST
+#-------------------------------
+[155]
+species = DRATINI
+item = SHARPBEAK
+nature = GENTLE
+evs = HP, ATK, DEF, SPD, SA, SD
+moves = TOXIC, SHOCKWAVE, HYPERBEAM, SAFEGUARD
+#-------------------------------
+[156]
+species = DRATINI
+item = BLACKGLASSES
+nature = SERIOUS
+evs = HP, DEF, SPD, SD
+moves = DRAGONDANCE, SURF, LIGHTSCREEN, SECRETPOWER
+#-------------------------------
+[157]
+species = SNUBBULL
+item = LEFTOVERS
+nature = QUIET
+evs = HP, ATK, DEF
+moves = DIG, TOXIC, THUNDERBOLT, CRUNCH
+#-------------------------------
+[158]
+species = SNUBBULL
+item = SPELLTAG
+nature = HASTY
+evs = HP, SA
+moves = TOXIC, FEINTATTACK, REFLECT, CRUNCH
+#-------------------------------
+[159]
+species = REMORAID
+item = SOOTHEBELL
+nature = HARDY
+evs = ATK, SPD, SD
+moves = SURF, DIVE, THUNDERWAVE, OCTAZOOKA
+#-------------------------------
+[160]
+species = REMORAID
+item = LEPPABERRY
+nature = QUIRKY
+evs = DEF, SPD, SA, SD
+moves = SCREECH, THUNDERWAVE, AURORABEAM, THIEF
+#-------------------------------
+[161]
+species = REMORAID
+item = QUALOTBERRY
+nature = NAUGHTY
+evs = SA
+moves = PROTECT, DIVE, ROCKBLAST, AURORABEAM
+#-------------------------------
+[162]
+species = LARVITAR
+item = FOCUSBAND
+nature = DOCILE
+evs = HP, ATK, DEF, SD
+moves = OUTRAGE, CURSE, HYPERBEAM, EARTHQUAKE
+#-------------------------------
+[163]
+species = BALTOY
+item = SHELLBELL
+nature = JOLLY
+evs = DEF, SPD, SA
+moves = PSYCHIC, PROTECT, SOLARBEAM, SECRETPOWER
+#-------------------------------
+[164]
+species = BALTOY
+item = ORANBERRY
+nature = TIMID
+evs = HP, ATK, SPD, SD
+moves = HARDEN, TOXIC, ROCKTOMB, RAPIDSPIN
+#-------------------------------
+[165]
+species = SNORUNT
+item = SOULDEW
+nature = IMPISH
+evs = HP, ATK
+moves = TOXIC, SHADOWBALL, WATERPULSE, LIGHTSCREEN
+#-------------------------------
+[166]
+species = SNORUNT
+item = PECHABERRY
+nature = MODEST
+evs = DEF, SA
+moves = SAFEGUARD, PROTECT, BLIZZARD, SPIKES
+#-------------------------------
+[167]
+species = BAGON
+item = HARDSTONE
+nature = ADAMANT
+evs = HP, ATK, SD
+moves = RAGE, BRICKBREAK, BITE, AERIALACE
+#-------------------------------
+[168]
+species = BAGON
+item = RAWSTBERRY
+nature = HARDY
+evs = HP, ATK, SPD, SD
+moves = THRASH, SECRETPOWER, AERIALACE, TOXIC
+#-------------------------------
+[169]
+species = BAGON
+item = FOCUSBAND
+nature = SASSY
+evs = HP, SA
+moves = PROTECT, HYDROPUMP, FLAMETHROWER, DRAGONDANCE
+#-------------------------------
+[170]
+species = BAGON
+item = EVERSTONE
+nature = BASHFUL
+evs = ATK, DEF, SD
+moves = DRAGONCLAW, FLAMETHROWER, TOXIC, FACADE
+#-------------------------------
+[171]
+species = BAGON
+item = ORANBERRY
+nature = LONELY
+evs = ATK, SD
+moves = DRAGONDANCE, HYDROPUMP, TOXIC, AERIALACE
+#-------------------------------
+[172]
+species = BAGON
+item = LEFTOVERS
+nature = CAREFUL
+evs = ATK, DEF, SPD
+moves = THRASH, PROTECT, DRAGONRAGE, FACADE
+#-------------------------------
+[173]
+species = BELDUM
+item = CORNNBERRY
+nature = GENTLE
+evs = ATK, SPD, SA
+moves = TAKEDOWN, , ,
+#-------------------------------
+[174]
+species = BRONZOR
+item = ORANBERRY
+nature = HARDY
+evs = HP, ATK, DEF, SPD, SD
+moves = REFLECT, CONFUSION, SHADOWBALL, SOLARBEAM
+#-------------------------------
+[175]
+species = BRONZOR
+item = SCOPELENS
+nature = RASH
+evs = HP, ATK, SPD, SA, SD
+moves = LIGHTSCREEN, ROCKTOMB, SECRETPOWER, SOLARBEAM
+#-------------------------------
+[176]
+species = GIBLE
+item = HARDSTONE
+nature = JOLLY
+evs = ATK, DEF, SPD, SA, SD
+moves = AERIALACE, ROCKTOMB, METALCLAW, TOXIC
+#-------------------------------
+[177]
+species = GIBLE
+item = CLEANSETAG
+nature = LONELY
+evs = HP, DEF, SPD, SD
+moves = SANDATTACK, DRAGONCLAW, EARTHQUAKE, BODYSLAM
+#-------------------------------
+[178]
+species = GIBLE
+item = NANABBERRY
+nature = BRAVE
+evs = HP, ATK, SPD, SD
+moves = FLAMETHROWER, SANDTOMB, HYPERFANG, SCARYFACE
+#-------------------------------
+[179]
+species = GIBLE
+item = LEFTOVERS
+nature = GENTLE
+evs = DEF
+moves = TWISTER, FACADE, PROTECT, AERIALACE
+#-------------------------------
+[180]
+species = CROAGUNK
+item = SALACBERRY
+nature = LAX
+evs = ATK, SPD, SD
+moves = DYNAMICPUNCH, PROTECT, MIMIC, STRENGTH
+#-------------------------------
+[181]
+species = CROAGUNK
+item = MIRACLESEED
+nature = RASH
+evs = HP, SPD, SD
+moves = ROCKTOMB, PROTECT, REVENGE, MIMIC
+#-------------------------------
+[182]
+species = CROAGUNK
+item = GANLONBERRY
+nature = LONELY
+evs = HP, DEF, SA, SD
+moves = CROSSCHOP, TOXIC, UPROAR, PROTECT
+#-------------------------------
+[183]
+species = GULPIN
+item = CLEANSETAG
+nature = BOLD
+evs = SA
+moves = WATERPULSE, STRENGTH, SHOCKWAVE, DREAMEATER
+#-------------------------------
+[184]
+species = GULPIN
+item = HARDSTONE
+nature = BOLD
+evs = ATK, DEF, SD
+moves = TOXIC, STRENGTH, SLUDGEBOMB, PROTECT
+#-------------------------------
+[185]
+species = VENONAT
+item = RABUTABERRY
+nature = SERIOUS
+evs = HP, SD
+moves = PROTECT, SCREECH, SLUDGEBOMB, SIGNALBEAM
+#-------------------------------
+[186]
+species = VENONAT
+item = SALACBERRY
+nature = BRAVE
+evs = SPD, SD
+moves = TOXIC, BATONPASS, SOLARBEAM, SIGNALBEAM
+#-------------------------------
+[187]
+species = MANKEY
+item = PAMTREBERRY
+nature = LAX
+evs = ATK, DEF, SPD
+moves = EARTHQUAKE, FORESIGHT, REVENGE, FOCUSPUNCH
+#-------------------------------
+[188]
+species = MANKEY
+item = DURINBERRY
+nature = RELAXED
+evs = HP, SA, SD
+moves = REVENGE, OVERHEAT, COUNTER, MEDITATE
+#-------------------------------
+[189]
+species = MANKEY
+item = SILVERPOWDER
+nature = NAIVE
+evs = ATK, DEF, SPD, SA, SD
+moves = ROCKSLIDE, REVERSAL, TOXIC, STRENGTH
+#-------------------------------
+[190]
+species = MACHOP
+item = SOOTHEBELL
+nature = HARDY
+evs = HP, ATK, SA, SD
+moves = STRENGTH, TOXIC, SMELLINGSALTS, LEER
+#-------------------------------
+[191]
+species = MACHOP
+item = SPELLTAG
+nature = BASHFUL
+evs = HP, DEF
+moves = MEDITATE, ROCKSLIDE, COUNTER, LIGHTSCREEN
+#-------------------------------
+[192]
+species = SHELLDER
+item = NANABBERRY
+nature = MILD
+evs = SD
+moves = WATERPULSE, SURF, TAKEDOWN, BARRIER
+#-------------------------------
+[193]
+species = SHELLDER
+item = LEFTOVERS
+nature = BASHFUL
+evs = DEF, SPD, SA
+moves = SURF, FACADE, BLIZZARD, TOXIC
+#-------------------------------
+[194]
+species = SMOOCHUM
+item = SPELONBERRY
+nature = TIMID
+evs = HP, ATK, SPD, SA, SD
+moves = ICEBEAM, WATERPULSE, LIGHTSCREEN, TOXIC
+#-------------------------------
+[195]
+species = SMOOCHUM
+item = PINAPBERRY
+nature = HASTY
+evs = HP, ATK, DEF, SA
+moves = FAKEOUT, MEDITATE, REFLECT, SHADOWBALL
+#-------------------------------
+[196]
+species = SMOOCHUM
+item = SEAINCENSE
+nature = JOLLY
+evs = HP, DEF, SA
+moves = FAKEOUT, MEDITATE, PSYCHUP, WATERPULSE
+#-------------------------------
+[197]
+species = CARVANHA
+item = BELUEBERRY
+nature = LAX
+evs = ATK, SA
+moves = BITE, FACADE, ICEBEAM, DOUBLEEDGE
+#-------------------------------
+[198]
+species = CARVANHA
+item = CHARCOAL
+nature = GENTLE
+evs = ATK, DEF, SA, SD
+moves = THRASH, PROTECT, BITE, TOXIC
+#-------------------------------
+[199]
+species = CARVANHA
+item = NEVERMELTICE
+nature = IMPISH
+evs = HP, ATK, DEF, SPD
+moves = HYDROPUMP, BLIZZARD, DOUBLEEDGE, TOXIC
+#-------------------------------
+[200]
+species = CARVANHA
+item = ORANBERRY
+nature = SERIOUS
+evs = HP, DEF, SPD, SA, SD
+moves = TOXIC, WATERPULSE, DOUBLEEDGE, BLIZZARD
+#-------------------------------
+[201]
+species = NUMEL
+item = DURINBERRY
+nature = QUIET
+evs = SD
+moves = BODYSLAM, STOMP, PROTECT, GROWL
+#-------------------------------
+[202]
+species = NUMEL
+item = LEFTOVERS
+nature = CALM
+evs = HP, SPD, SA
+moves = STOMP, DIG, TOXIC, SCARYFACE
+#-------------------------------
+[203]
+species = CORPHISH
+item = HONDEWBERRY
+nature = JOLLY
+evs = HP, ATK, DEF, SPD, SD
+moves = TOXIC, MUDSPORT, SECRETPOWER, ANCIENTPOWER
+#-------------------------------
+[204]
+species = CHARMANDER
+item = BLACKBELT
+nature = BASHFUL
+evs = HP, SPD, SA, SD
+moves = FOCUSPUNCH, ROCKSLIDE, STRENGTH, AERIALACE
+#-------------------------------
+[205]
+species = CYNDAQUIL
+item = PECHABERRY
+nature = BOLD
+evs = SA
+moves = TOXIC, PROTECT, AERIALACE, DIG
+#-------------------------------
+[206]
+species = CYNDAQUIL
+item = LEFTOVERS
+nature = LAX
+evs = SPD, SA
+moves = CRUSHCLAW, DIG, COVET, REVERSAL
+#-------------------------------
+[207]
+species = CYNDAQUIL
+item = CHARCOAL
+nature = QUIET
+evs = HP, ATK, SPD
+moves = COVET, OVERHEAT, THRASH, FURYSWIPES
+#-------------------------------
+[208]
+species = CHIMCHAR
+item = IAPAPABERRY
+nature = HARDY
+evs = HP, ATK, SPD
+moves = ENCORE, TOXIC, FOCUSENERGY, DIG
+#-------------------------------
+[209]
+species = ABRA
+item = MIRACLESEED
+nature = BOLD
+evs = HP, ATK, SPD, SD
+moves = BARRIER, PROTECT, FOCUSPUNCH, FIREPUNCH
+#-------------------------------
+[210]
+species = ABRA
+item = ORANBERRY
+nature = IMPISH
+evs = HP, ATK, DEF, SA, SD
+moves = ICEPUNCH, LIGHTSCREEN, ENCORE, SHADOWBALL
+#-------------------------------
+[211]
+species = ABRA
+item = LEPPABERRY
+nature = ADAMANT
+evs = ATK, SPD, SD
+moves = ICEPUNCH, SHADOWBALL, IRONTAIL, TOXIC
+#-------------------------------
+[212]
+species = ABRA
+item = LEFTOVERS
+nature = DOCILE
+evs = HP, SPD
+moves = BARRIER, PROTECT, PSYCHIC, REFLECT
+#-------------------------------
+[213]
+species = DODUO
+item = FIGYBERRY
+nature = CALM
+evs = DEF, SPD, SA, SD
+moves = SUPERSONIC, SECRETPOWER, HAZE, FACADE
+#-------------------------------
+[214]
+species = DODUO
+item = WIKIBERRY
+nature = QUIRKY
+evs = HP, SPD, SA, SD
+moves = THIEF, FACADE, FLY, TOXIC
+#-------------------------------
+[215]
+species = DODUO
+item = CLEANSETAG
+nature = QUIET
+evs = HP, ATK, DEF, SPD, SA, SD
+moves = FLAIL, HAZE, THIEF, SECRETPOWER
+#-------------------------------
+[216]
+species = GASTLY
+item = ORANBERRY
+nature = HASTY
+evs = ATK
+moves = PROTECT, TOXIC, WILLOWISP, PERISHSONG
+#-------------------------------
+[217]
+species = TREECKO
+item = CLEANSETAG
+nature = QUIRKY
+evs = ATK, DEF, SPD
+moves = SAFEGUARD, AERIALACE, ROCKTOMB, CRUSHCLAW
+#-------------------------------
+[218]
+species = TREECKO
+item = ORANBERRY
+nature = RELAXED
+evs = ATK, SPD, SD
+moves = BRICKBREAK, SAFEGUARD, AERIALACE, TOXIC
+#-------------------------------
+[219]
+species = TORCHIC
+item = DRAGONSCALE
+nature = QUIRKY
+evs = ATK, DEF, SPD
+moves = ENDURE, FLAMETHROWER, PROTECT, ROCKTOMB
+#-------------------------------
+[220]
+species = TORCHIC
+item = ORANBERRY
+nature = QUIET
+evs = HP, ATK, DEF, SA, SD
+moves = ROCKSLIDE, ENDURE, STRENGTH, REVERSAL
+#-------------------------------
+[221]
+species = MUDKIP
+item = EXPSHARE
+nature = CALM
+evs = SA, SD
+moves = DIVE, SECRETPOWER, WATERPULSE, STRENGTH
+#-------------------------------
+[222]
+species = MUDKIP
+item = GREPABERRY
+nature = QUIET
+evs = SA
+moves = SECRETPOWER, CURSE, GROWL, SURF
+#-------------------------------
+[223]
+species = SWABLU
+item = NANABBERRY
+nature = CALM
+evs = ATK, SA, SD
+moves = HAZE, PURSUIT, PROTECT, SECRETPOWER
+#-------------------------------
+[224]
+species = SWABLU
+item = KELPSYBERRY
+nature = SERIOUS
+evs = HP, ATK, SD
+moves = THIEF, FLY, SOLARBEAM, HAZE
+#-------------------------------
+[225]
+species = SWABLU
+item = ORANBERRY
+nature = BRAVE
+evs = DEF, SPD, SD
+moves = TOXIC, SOLARBEAM, GROWL, AGILITY
+#-------------------------------
+[226]
+species = SWABLU
+item = TAMATOBERRY
+nature = LONELY
+evs = HP, SPD, SD
+moves = PURSUIT, FACADE, PROTECT, SECRETPOWER
+#-------------------------------
+[227]
+species = GLAMEOW
+item = ORANBERRY
+nature = BASHFUL
+evs = HP, ATK, SA
+moves = FAKETEARS, AERIALACE, FACADE, IRONTAIL
+#-------------------------------
+[228]
+species = GLAMEOW
+item = ORANBERRY
+nature = HASTY
+evs = HP, DEF, SPD
+moves = SECRETPOWER, PROTECT, SANDATTACK, IRONTAIL
+#-------------------------------
+[229]
+species = GLAMEOW
+item = POISONBARB
+nature = RELAXED
+evs = ATK, DEF, SPD, SA, SD
+moves = FACADE, TOXIC, AERIALACE, BITE
+#-------------------------------
+[230]
+species = MIMEJR
+item = PERSIMBERRY
+nature = BOLD
+evs = DEF
+moves = REFLECT, SECRETPOWER, CHARM, CONFUSERAY
+#-------------------------------
+[231]
+species = MIMEJR
+item = SPELLTAG
+nature = CAREFUL
+evs = SPD
+moves = REVENGE, SOLARBEAM, SHADOWBALL, MIMIC
+#-------------------------------
+[232]
+species = SQUIRTLE
+item = LEFTOVERS
+nature = IMPISH
+evs = HP, ATK, DEF, SA
+moves = BLIZZARD, FACADE, WATERPULSE, TOXIC
+#-------------------------------
+[233]
+species = TOTODILE
+item = SALACBERRY
+nature = JOLLY
+evs = SPD, SA, SD
+moves = THRASH, ROCKSLIDE, TOXIC, DIG
+#-------------------------------
+[234]
+species = PIPLUP
+item = SCOPELENS
+nature = SERIOUS
+evs = ATK, SPD, SA, SD
+moves = SNORE, AGILITY, ICEBEAM, YAWN
+#-------------------------------
+[235]
+species = SLOWPOKE
+item = SPELONBERRY
+nature = HASTY
+evs = ATK, SPD
+moves = STRENGTH, CURSE, SHADOWBALL, PSYCHIC
+#-------------------------------
+[236]
+species = BULBASAUR
+item = PAMTREBERRY
+nature = BASHFUL
+evs = DEF, SPD, SD
+moves = CURSE, LIGHTSCREEN, FACADE, TOXIC
+#-------------------------------
+[237]
+species = BULBASAUR
+item = ORANBERRY
+nature = IMPISH
+evs = ATK, SA, SD
+moves = MAGICALLEAF, CURSE, LIGHTSCREEN, SKULLBASH
+#-------------------------------
+[238]
+species = TURTWIG
+item = SOULDEW
+nature = DOCILE
+evs = HP, ATK, SPD, SD
+moves = LEECHSEED, DRAGONCLAW, BODYSLAM, SUPERPOWER
+#-------------------------------
+[239]
+species = ODDISH
+item = PINAPBERRY
+nature = NAUGHTY
+evs = HP, DEF
+moves = PROTECT, FACADE, SWORDSDANCE, INGRAIN
+#-------------------------------
+[240]
+species = ODDISH
+item = EXPSHARE
+nature = ADAMANT
+evs = HP, DEF, SD
+moves = FACADE, INGRAIN, SWORDSDANCE, RAZORLEAF
+#-------------------------------
+[241]
+species = ODDISH
+item = ORANBERRY
+nature = TIMID
+evs = ATK, SPD, SA, SD
+moves = SECRETPOWER, CUT, PROTECT, CHARM
+#-------------------------------
+[242]
+species = PSYDUCK
+item = LEFTOVERS
+nature = QUIET
+evs = HP, DEF, SA
+moves = WATERPULSE, BLIZZARD, LIGHTSCREEN, FUTURESIGHT
+#-------------------------------
+[243]
+species = PSYDUCK
+item = QUALOTBERRY
+nature = MODEST
+evs = ATK, DEF, SPD, SA
+moves = PROTECT, STRENGTH, PSYCHIC, REFRESH
+#-------------------------------
+[244]
+species = PSYDUCK
+item = ORANBERRY
+nature = BOLD
+evs = ATK, SPD
+moves = LIGHTSCREEN, PROTECT, SECRETPOWER, REFRESH
+#-------------------------------
+[245]
+species = PSYDUCK
+item = EXPSHARE
+nature = QUIET
+evs = HP, ATK, SPD, SA
+moves = BRICKBREAK, DIG, BLIZZARD, AERIALACE
+#-------------------------------
+[246]
+species = PSYDUCK
+item = BLUKBERRY
+nature = JOLLY
+evs = ATK, DEF, SD
+moves = REFRESH, PSYCHIC, FACADE, DIG
+#-------------------------------
+[247]
+species = CUBONE
+item = TWISTEDSPOON
+nature = NAIVE
+evs = HP, ATK, DEF, SPD, SA
+moves = SKULLBASH, TOXIC, FACADE, EARTHQUAKE
+#-------------------------------
+[248]
+species = CUBONE
+item = PAMTREBERRY
+nature = MODEST
+evs = HP, SA, SD
+moves = ROCKSLIDE, SCREECH, PROTECT, SKULLBASH
+#-------------------------------
+[249]
+species = GOLDEEN
+item = LUCKYEGG
+nature = NAIVE
+evs = HP, DEF, SPD, SA, SD
+moves = WATERPULSE, HYDROPUMP, SLEEPTALK, BLIZZARD
+#-------------------------------
+[250]
+species = GOLDEEN
+item = METALPOWDER
+nature = QUIRKY
+evs = DEF, SPD, SD
+moves = TOXIC, BLIZZARD, SLEEPTALK, PROTECT
+#-------------------------------
+[251]
+species = GOLDEEN
+item = WHITEHERB
+nature = NAIVE
+evs = ATK, SPD, SA, SD
+moves = HAZE, PROTECT, SLEEPTALK, MUDSPORT
+#-------------------------------
+[252]
+species = NATU
+item = LUMBERRY
+nature = CALM
+evs = HP, SA, SD
+moves = STEELWING, SHADOWBALL, PSYCHIC, HAZE
+#-------------------------------
+[253]
+species = NATU
+item = METALCOAT
+nature = MODEST
+evs = HP, SD
+moves = TOXIC, QUICKATTACK, FEATHERDANCE, HAZE
+#-------------------------------
+[254]
+species = NATU
+item = PECHABERRY
+nature = BRAVE
+evs = SA
+moves = SOLARBEAM, AERIALACE, PSYCHIC, SHADOWBALL
+#-------------------------------
+[255]
+species = MAGNEMITE
+item = MYSTICWATER
+nature = SERIOUS
+evs = ATK, DEF, SD
+moves = PROTECT, REFLECT, SECRETPOWER, TOXIC
+#-------------------------------
+[256]
+species = SEEL
+item = POMEGBERRY
+nature = RELAXED
+evs = SA, SD
+moves = SAFEGUARD, LICK, SLAM, PROTECT
+#-------------------------------
+[257]
+species = SEEL
+item = DRAGONFANG
+nature = HARDY
+evs = DEF, SA, SD
+moves = HEADBUTT, SECRETPOWER, PROTECT, FAKEOUT
+#-------------------------------
+[258]
+species = SEEL
+item = LEFTOVERS
+nature = NAIVE
+evs = HP, SA, SD
+moves = ICEBEAM, HORNDRILL, SECRETPOWER, ENCORE
+#-------------------------------
+[259]
+species = GRIMER
+item = DRAGONFANG
+nature = NAUGHTY
+evs = HP, SD
+moves = MEANLOOK, SHOCKWAVE, PROTECT, THIEF
+#-------------------------------
+[260]
+species = KRABBY
+item = ORANBERRY
+nature = MODEST
+evs = HP, SPD, SD
+moves = LEER, DIG, WATERPULSE, HAZE
+#-------------------------------
+[261]
+species = KRABBY
+item = BELUEBERRY
+nature = MODEST
+evs = HP, ATK, DEF, SA
+moves = HAZE, STRENGTH, LEER, AMNESIA
+#-------------------------------
+[262]
+species = EXEGGCUTE
+item = ORANBERRY
+nature = BASHFUL
+evs = ATK, SA
+moves = REFLECT, BARRAGE, ANCIENTPOWER, LIGHTSCREEN
+#-------------------------------
+[263]
+species = EXEGGCUTE
+item = LIGHTBALL
+nature = CAREFUL
+evs = SPD, SD
+moves = CURSE, HYPNOSIS, LIGHTSCREEN, THIEF
+#-------------------------------
+[264]
+species = EXEGGCUTE
+item = SILKSCARF
+nature = TIMID
+evs = HP, ATK, SPD, SA
+moves = CURSE, SYNTHESIS, TOXIC, PROTECT
+#-------------------------------
+[265]
+species = EEVEE
+item = HARDSTONE
+nature = CAREFUL
+evs = DEF, SPD, SA, SD
+moves = TOXIC, CHARM, PROTECT, DIG
+#-------------------------------
+[266]
+species = SHELLOS
+item = SEAINCENSE
+nature = ADAMANT
+evs = ATK, SPD, SD
+moves = BLIZZARD, MEMENTO, PROTECT, COUNTER
+#-------------------------------
+[267]
+species = SHELLOS
+item = CORNNBERRY
+nature = DOCILE
+evs = DEF, SA, SD
+moves = TOXIC, MUDSPORT, COUNTER, CURSE
+#-------------------------------
+[268]
+species = SHELLOS
+item = RAWSTBERRY
+nature = HASTY
+evs = ATK, DEF, SA
+moves = AMNESIA, MIRRORCOAT, MUDSLAP, PROTECT
+#-------------------------------
+[269]
+species = SHELLOS
+item = CHESTOBERRY
+nature = QUIET
+evs = SPD, SA, SD
+moves = MUDSPORT, SPITUP, STOCKPILE, TOXIC
+#-------------------------------
+[270]
+species = DROWZEE
+item = SALACBERRY
+nature = MODEST
+evs = DEF, SPD, SA, SD
+moves = BRICKBREAK, ICEPUNCH, TOXIC, PROTECT
+#-------------------------------
+[271]
+species = STUNKY
+item = NANABBERRY
+nature = BOLD
+evs = HP, ATK, DEF, SPD, SA
+moves = CUT, PROTECT, DOUBLEEDGE, TOXIC
+#-------------------------------
+[272]
+species = STUNKY
+item = SOFTSAND
+nature = CAREFUL
+evs = DEF, SA
+moves = DIG, FOCUSENERGY, DOUBLEEDGE, PROTECT
+#-------------------------------
+[273]
+species = STUNKY
+item = CLEANSETAG
+nature = LONELY
+evs = HP, ATK, DEF, SPD, SA
+moves = TOXIC, SCARYFACE, THIEF, CRUNCH
+#-------------------------------
+[274]
+species = VOLTORB
+item = NANABBERRY
+nature = DOCILE
+evs = HP, ATK, SD
+moves = FACADE, TOXIC, LIGHTSCREEN, SHOCKWAVE
+#-------------------------------
+[275]
+species = CHINCHOU
+item = TWISTEDSPOON
+nature = RELAXED
+evs = HP, ATK, DEF, SPD, SD
+moves = SCREECH, THUNDERBOLT, WATERPULSE, FLAIL
+#-------------------------------
+[276]
+species = CHINCHOU
+item = CHOICEBAND
+nature = NAUGHTY
+evs = HP, ATK, SPD, SA, SD
+moves = THUNDER, BLIZZARD, THUNDERBOLT, THUNDERWAVE
+#-------------------------------
+[277]
+species = CHINCHOU
+item = NOMELBERRY
+nature = ADAMANT
+evs = HP, SPD, SA, SD
+moves = SURF, AMNESIA, SECRETPOWER, THUNDERWAVE
+#-------------------------------
+[278]
+species = CHINCHOU
+item = WHITEHERB
+nature = MODEST
+evs = HP, SD
+moves = FACADE, WATERPULSE, TOXIC, THUNDERWAVE
+#-------------------------------
+[279]
+species = TEDDIURSA
+item = TWISTEDSPOON
+nature = RELAXED
+evs = HP, SPD, SA, SD
+moves = LEER, SLEEPTALK, DIG, EARTHQUAKE
+#-------------------------------
+[280]
+species = TEDDIURSA
+item = QUICKCLAW
+nature = DOCILE
+evs = HP, ATK, DEF, SPD, SA
+moves = SLEEPTALK, TAKEDOWN, CRUNCH, COUNTER
+#-------------------------------
+[281]
+species = TEDDIURSA
+item = MYSTICWATER
+nature = CALM
+evs = HP, DEF, SD
+moves = YAWN, AERIALACE, SEISMICTOSS, SECRETPOWER
+#-------------------------------
+[282]
+species = TEDDIURSA
+item = CHERIBERRY
+nature = RASH
+evs = ATK, SA
+moves = TOXIC, PROTECT, COUNTER, TAKEDOWN
+#-------------------------------
+[283]
+species = HOUNDOUR
+item = HARDSTONE
+nature = DOCILE
+evs = ATK, DEF
+moves = SLUDGEBOMB, SECRETPOWER, WILLOWISP, TOXIC
+#-------------------------------
+[284]
+species = HOUNDOUR
+item = FOCUSBAND
+nature = MODEST
+evs = HP, ATK
+moves = FIRESPIN, SLUDGEBOMB, BEATUP, TOXIC
+#-------------------------------
+[285]
+species = HOUNDOUR
+item = HONDEWBERRY
+nature = BOLD
+evs = HP, ATK, SPD, SD
+moves = PROTECT, FACADE, SECRETPOWER, SPITE
+#-------------------------------
+[286]
+species = PHANPY
+item = FIGYBERRY
+nature = NAUGHTY
+evs = HP, ATK, DEF, SPD
+moves = STRENGTH, EARTHQUAKE, PROTECT, ANCIENTPOWER
+#-------------------------------
+[287]
+species = PHANPY
+item = MIRACLESEED
+nature = BASHFUL
+evs = SD
+moves = STRENGTH, GROWL, FOCUSENERGY, ODORSLEUTH
+#-------------------------------
+[288]
+species = PHANPY
+item = NOMELBERRY
+nature = CAREFUL
+evs = SPD
+moves = ANCIENTPOWER, TOXIC, BODYSLAM, IRONTAIL
+#-------------------------------
+[289]
+species = PHANPY
+item = LAXINCENSE
+nature = QUIRKY
+evs = ATK, DEF, SA
+moves = PROTECT, FOCUSENERGY, FISSURE, BODYSLAM
+#-------------------------------
+[290]
+species = ARON
+item = MAGOBERRY
+nature = BRAVE
+evs = DEF, SPD, SA, SD
+moves = ENDEAVOR, BODYSLAM, AERIALACE, FACADE
+#-------------------------------
+[291]
+species = ARON
+item = CHARCOAL
+nature = RELAXED
+evs = HP, SPD, SD
+moves = TOXIC, BODYSLAM, AERIALACE, SMELLINGSALTS
+#-------------------------------
+[292]
+species = ARON
+item = WHITEHERB
+nature = BOLD
+evs = ATK, DEF, SA, SD
+moves = PROTECT, BODYSLAM, ROCKTOMB, TOXIC
+#-------------------------------
+[293]
+species = ARON
+item = SHARPBEAK
+nature = RELAXED
+evs = HP, ATK, SA, SD
+moves = BODYSLAM, EARTHQUAKE, WATERPULSE, AERIALACE
+#-------------------------------
+[294]
+species = ARON
+item = POMEGBERRY
+nature = RELAXED
+evs = ATK, SPD
+moves = BODYSLAM, TOXIC, DIG, STOMP
+#-------------------------------
+[295]
+species = ARON
+item = PINAPBERRY
+nature = ADAMANT
+evs = HP, ATK, DEF, SD
+moves = STRENGTH, BODYSLAM, WATERPULSE, AERIALACE
+#-------------------------------
+[296]
+species = SPOINK
+item = ORANBERRY
+nature = HASTY
+evs = HP, ATK
+moves = SECRETPOWER, SHOCKWAVE, PSYCHIC, TOXIC
+#-------------------------------
+[297]
+species = SPOINK
+item = LAXINCENSE
+nature = HARDY
+evs = ATK, SD
+moves = TOXIC, FUTURESIGHT, PROTECT, TRICK
+#-------------------------------
+[298]
+species = SPOINK
+item = SOULDEW
+nature = LAX
+evs = SD
+moves = SHOCKWAVE, TOXIC, PROTECT, SECRETPOWER
+#-------------------------------
+[299]
+species = SPOINK
+item = MAGOBERRY
+nature = ADAMANT
+evs = SPD, SD
+moves = SUBSTITUTE, REFLECT, TRICK, EXTRASENSORY
+#-------------------------------
+[300]
+species = HIPPOPOTAS
+item = SCOPELENS
+nature = MODEST
+evs = HP, ATK, DEF, SA, SD
+moves = STRENGTH, IRONTAIL, WATERPULSE, PROTECT
+#-------------------------------
+[301]
+species = HIPPOPOTAS
+item = SCOPELENS
+nature = NAUGHTY
+evs = SPD, SA, SD
+moves = BODYSLAM, SANDTOMB, EARTHQUAKE, ROCKTOMB
+#-------------------------------
+[302]
+species = SKORUPI
+item = GREPABERRY
+nature = SERIOUS
+evs = HP, ATK, SPD, SA, SD
+moves = LEAFBLADE, WHIRLWIND, STRENGTH, THIEF
+#-------------------------------
+[303]
+species = SKORUPI
+item = MYSTICWATER
+nature = HASTY
+evs = HP, DEF, SPD, SA
+moves = DIG, THIEF, LEAFBLADE, AGILITY
+#-------------------------------
+[304]
+species = SKORUPI
+item = SALACBERRY
+nature = MILD
+evs = HP, SD
+moves = BITE, SANDATTACK, SLUDGEBOMB, CONFUSERAY
+#-------------------------------
+[305]
+species = SKORUPI
+item = LEFTOVERS
+nature = ADAMANT
+evs = ATK, SA
+moves = SLASH, CONFUSERAY, AGILITY, TOXIC
+#-------------------------------
+[306]
+species = SKORUPI
+item = FOCUSBAND
+nature = MILD
+evs = ATK, DEF
+moves = CONFUSERAY, DIG, LEAFBLADE, PROTECT
+#-------------------------------
+[307]
+species = SKORUPI
+item = DRAGONFANG
+nature = DOCILE
+evs = HP, DEF, SA
+moves = SECRETPOWER, FEINTATTACK, CONFUSERAY, SLUDGEBOMB
+#-------------------------------
+[308]
+species = FINNEON
+item = GREPABERRY
+nature = MILD
+evs = HP, ATK, SA, SD
+moves = BLIZZARD, SURF, SPLASH, AGILITY
+#-------------------------------
+[309]
+species = FINNEON
+item = MYSTICWATER
+nature = BASHFUL
+evs = ATK, SPD
+moves = SECRETPOWER, SPLASH, CHARM, PROTECT
+#-------------------------------
+[310]
+species = SNOVER
+item = MAGOBERRY
+nature = QUIET
+evs = HP, SD
+moves = LEECHSEED, DOUBLEEDGE, PROTECT, LIGHTSCREEN
+#-------------------------------
+[311]
+species = SNOVER
+item = GREPABERRY
+nature = IMPISH
+evs = ATK, DEF
+moves = BLIZZARD, DOUBLEEDGE, DRAGONCLAW, MIST
+#-------------------------------
+[312]
+species = SNOVER
+item = CHOICEBAND
+nature = IMPISH
+evs = HP, DEF, SPD, SA
+moves = SAFEGUARD, MAGICALLEAF, LEECHSEED, ICEBEAM
+#-------------------------------
+[313]
+species = SNOVER
+item = BLUKBERRY
+nature = BRAVE
+evs = HP, ATK, DEF, SPD, SD
+moves = PROTECT, STOMP, SECRETPOWER, DRAGONCLAW
+#-------------------------------
+[314]
+species = TENTACOOL
+item = SPELLTAG
+nature = LAX
+evs = ATK, DEF, SPD, SD
+moves = FACADE, SAFEGUARD, CONFUSERAY, WATERPULSE
+#-------------------------------
+[315]
+species = TENTACOOL
+item = GANLONBERRY
+nature = DOCILE
+evs = HP, ATK, DEF, SPD, SA, SD
+moves = SAFEGUARD, CONFUSERAY, SLUDGEBOMB, WATERPULSE
+#-------------------------------
+[316]
+species = TENTACOOL
+item = LEFTOVERS
+nature = CALM
+evs = HP, ATK, DEF, SPD, SD
+moves = SECRETPOWER, PROTECT, TOXIC, MIRRORCOAT
+#-------------------------------
+[317]
+species = CACNEA
+item = MENTALHERB
+nature = QUIRKY
+evs = ATK, DEF, SPD, SD
+moves = SOLARBEAM, FOCUSPUNCH, GRASSWHISTLE, TOXIC
+#-------------------------------
+[318]
+species = CACNEA
+item = GANLONBERRY
+nature = HASTY
+evs = SPD
+moves = SOLARBEAM, DYNAMICPUNCH, LEER, FOCUSPUNCH
+#-------------------------------
+[319]
+species = STARYU
+item = TWISTEDSPOON
+nature = ADAMANT
+evs = ATK, DEF, SPD, SD
+moves = SURF, PROTECT, TOXIC, PSYCHIC
+#-------------------------------
+[320]
+species = STARYU
+item = SEAINCENSE
+nature = NAUGHTY
+evs = HP, ATK, SA
+moves = REFLECT, PSYCHIC, SURF, DIVE
+#-------------------------------
+[321]
+species = STARYU
+item = CHARCOAL
+nature = SASSY
+evs = ATK, SPD, SA
+moves = TACKLE, HARDEN, SECRETPOWER, PROTECT
+#-------------------------------
+[322]
+species = STARYU
+item = ORANBERRY
+nature = MODEST
+evs = HP, DEF, SPD, SD
+moves = BLIZZARD, PROTECT, REFLECT, PSYCHIC
+#-------------------------------
+[323]
+species = STARYU
+item = WEPEARBERRY
+nature = JOLLY
+evs = SPD, SA
+moves = SECRETPOWER, WATERPULSE, TACKLE, PROTECT
+#-------------------------------
+[324]
+species = RHYHORN
+item = STARFBERRY
+nature = MODEST
+evs = ATK, DEF
+moves = THUNDER, CURSE, SECRETPOWER, COUNTER
+#-------------------------------
+[325]
+species = RHYHORN
+item = DRAGONFANG
+nature = MILD
+evs = SA, SD
+moves = TAILWHIP, THUNDER, CURSE, PROTECT
+#-------------------------------
+[326]
+species = CLAMPERL
+item = ORANBERRY
+nature = BASHFUL
+evs = HP, DEF, SPD, SA
+moves = IRONDEFENSE, BODYSLAM, DIVE, CONFUSERAY
+#-------------------------------
+[327]
+species = CLAMPERL
+item = LEFTOVERS
+nature = BOLD
+evs = SA
+moves = CONFUSERAY, PROTECT, TOXIC, BLIZZARD
+#-------------------------------
+[328]
+species = CLAMPERL
+item = APICOTBERRY
+nature = SERIOUS
+evs = HP
+moves = IRONDEFENSE, PROTECT, REFRESH, BARRIER
+#-------------------------------
+[329]
+species = MANTYKE
+item = NOMELBERRY
+nature = TIMID
+evs = DEF, SPD, SD
+moves = PROTECT, TWISTER, ROCKSLIDE, HYDROPUMP
+#-------------------------------
+[330]
+species = MANTYKE
+item = NOMELBERRY
+nature = CALM
+evs = HP, DEF, SPD, SD
+moves = WATERPULSE, WATERSPORT, TOXIC, BLIZZARD
+#-------------------------------
+[331]
+species = DRIFLOON
+item = SOOTHEBELL
+nature = QUIRKY
+evs = ATK, SPD, SD
+moves = THIEF, FACADE, TOXIC, HYPNOSIS
+#-------------------------------
+[332]
+species = DRIFLOON
+item = QUICKCLAW
+nature = BOLD
+evs = HP, SA, SD
+moves = SECRETPOWER, FACADE, TOXIC, HYPNOSIS
+#-------------------------------
+[333]
+species = GROWLITHE
+item = LUMBERRY
+nature = RASH
+evs = ATK, SPD, SA
+moves = BITE, SAFEGUARD, BODYSLAM, THRASH
+#-------------------------------
+[334]
+species = CRANIDOS
+item = ORANBERRY
+nature = BRAVE
+evs = HP, SA
+moves = FIREBLAST, FLAMETHROWER, STOMP, HEADBUTT
+#-------------------------------
+[335]
+species = SHIELDON
+item = LEFTOVERS
+nature = BASHFUL
+evs = DEF
+moves = HEADBUTT, SECRETPOWER, STRENGTH, FISSURE
+#-------------------------------
+[336]
+species = SHIELDON
+item = METALPOWDER
+nature = LAX
+evs = DEF, SD
+moves = FLAMETHROWER, TOXIC, DIG, PROTECT
+#-------------------------------
+[337]
+species = SHIELDON
+item = LEPPABERRY
+nature = QUIRKY
+evs = SPD, SA
+moves = HEADBUTT, BLIZZARD, PROTECT, EARTHQUAKE
+#-------------------------------
+[338]
+species = BUNEARY
+item = NANABBERRY
+nature = CAREFUL
+evs = DEF, SPD
+moves = SKYUPPERCUT, WATERPULSE, TRICK, PROTECT
+#-------------------------------
+[339]
+species = BUNEARY
+item = SOFTSAND
+nature = NAIVE
+evs = HP
+moves = THUNDERBOLT, TOXIC, FAKEOUT, BONEMERANG
+#-------------------------------
+[340]
+species = BUNEARY
+item = EXPSHARE
+nature = DOCILE
+evs = SPD, SA
+moves = FIREPUNCH, FAKEOUT, SOLARBEAM, FORESIGHT
+#-------------------------------
+[341]
+species = OMANYTE
+item = WATMELBERRY
+nature = CAREFUL
+evs = HP, DEF, SPD, SA
+moves = ROCKSLIDE, WATERPULSE, SLAM, WITHDRAW
+#-------------------------------
+[342]
+species = OMANYTE
+item = KELPSYBERRY
+nature = BOLD
+evs = SA, SD
+moves = CONSTRICT, PROTECT, TOXIC, DIVE
+#-------------------------------
+[343]
+species = OMANYTE
+item = METALCOAT
+nature = LONELY
+evs = SPD, SA, SD
+moves = AURORABEAM, SLAM, ROCKSLIDE, SUPERSONIC
+#-------------------------------
+[344]
+species = OMANYTE
+item = BLUKBERRY
+nature = MILD
+evs = HP, ATK
+moves = THIEF, WITHDRAW, SLAM, SUPERSONIC
+#-------------------------------
+[345]
+species = OMANYTE
+item = ORANBERRY
+nature = SERIOUS
+evs = HP, DEF, SD
+moves = HAZE, ROCKSLIDE, SLAM, SUPERSONIC
+#-------------------------------
+[346]
+species = OMANYTE
+item = LANSATBERRY
+nature = MILD
+evs = HP, DEF
+moves = HAZE, SLAM, BLIZZARD, FACADE
+#-------------------------------
+[347]
+species = KABUTO
+item = QUALOTBERRY
+nature = RASH
+evs = ATK, DEF
+moves = TOXIC, DIG, SURF, GIGADRAIN
+#-------------------------------
+[348]
+species = KABUTO
+item = LEFTOVERS
+nature = GENTLE
+evs = DEF, SPD, SD
+moves = TOXIC, CONFUSERAY, AERIALACE, FACADE
+#-------------------------------
+[349]
+species = LILEEP
+item = SALACBERRY
+nature = HASTY
+evs = HP, DEF, SD
+moves = SOLARBEAM, MIRRORCOAT, SECRETPOWER, ROCKSLIDE
+#-------------------------------
+[350]
+species = LILEEP
+item = BLUKBERRY
+nature = LAX
+evs = DEF, SD
+moves = PROTECT, ROCKSLIDE, MIRRORCOAT, GIGADRAIN
+#-------------------------------
+[351]
+species = LILEEP
+item = ORANBERRY
+nature = QUIET
+evs = ATK, SA
+moves = SLUDGEBOMB, RECOVER, MIRRORCOAT, TOXIC
+#-------------------------------
+[352]
+species = ANORITH
+item = SOULDEW
+nature = NAUGHTY
+evs = DEF, SPD
+moves = PROTECT, TOXIC, BRICKBREAK, SECRETPOWER
+#-------------------------------
+[353]
+species = ELEKID
+item = EXPSHARE
+nature = IMPISH
+evs = HP, DEF, SPD, SD
+moves = CROSSCHOP, ICEPUNCH, LIGHTSCREEN, PROTECT
+#-------------------------------
+[354]
+species = ELEKID
+item = SHARPBEAK
+nature = GENTLE
+evs = HP, ATK, DEF, SA, SD
+moves = SHOCKWAVE, LIGHTSCREEN, FOCUSPUNCH, PSYCHIC
+#-------------------------------
+[355]
+species = ELEKID
+item = CLEANSETAG
+nature = QUIET
+evs = ATK, DEF, SPD, SD
+moves = ICEPUNCH, FACADE, FOCUSPUNCH, LIGHTSCREEN
+#-------------------------------
+[356]
+species = MAGBY
+item = WHITEHERB
+nature = BASHFUL
+evs = HP, DEF, SPD, SA, SD
+moves = MEGAPUNCH, FLAMETHROWER, CROSSCHOP, TOXIC
+#-------------------------------
+[357]
+species = ONIX
+item = STARFBERRY
+nature = RASH
+evs = HP, ATK, SPD, SD
+moves = TOXIC, EARTHQUAKE, IRONTAIL, PROTECT
+#-------------------------------
+[358]
+species = ONIX
+item = CHESTOBERRY
+nature = NAUGHTY
+evs = ATK, DEF
+moves = EARTHQUAKE, EXPLOSION, TOXIC, PROTECT
+#-------------------------------
+[359]
+species = MUNCHLAX
+item = NEVERMELTICE
+nature = RASH
+evs = ATK
+moves = TOXIC, EXTRASENSORY, SOLARBEAM, DOUBLEEDGE
+#-------------------------------
+[360]
+species = SCYTHER
+item = NEVERMELTICE
+nature = SERIOUS
+evs = HP, ATK, SA
+moves = SAFEGUARD, RAZORWIND, LIGHTSCREEN, TOXIC
+#-------------------------------
+[361]
+species = MUNCHLAX
+item = MENTALHERB
+nature = NAUGHTY
+evs = HP, ATK, SPD, SA
+moves = SOLARBEAM, FLAMETHROWER, WHIRLWIND, PURSUIT
+#-------------------------------
+[362]
+species = MUNCHLAX
+item = STARFBERRY
+nature = SERIOUS
+evs = HP, DEF, SA, SD
+moves = THUNDERBOLT, PROTECT, SHADOWBALL, THUNDER
+#-------------------------------
+[363]
+species = SCYTHER
+item = SOOTHEBELL
+nature = ADAMANT
+evs = HP, ATK, DEF, SA
+moves = TOXIC, ENDURE, SILVERWIND, LIGHTSCREEN
+#-------------------------------
+[364]
+species = SCYTHER
+item = QUALOTBERRY
+nature = DOCILE
+evs = HP, SPD, SA, SD
+moves = PROTECT, SAFEGUARD, AERIALACE, ENDURE
+#-------------------------------
+[365]
+species = SCYTHER
+item = LEFTOVERS
+nature = SASSY
+evs = DEF, SPD, SA
+moves = RAZORWIND, ENDURE, HYPERBEAM, SAFEGUARD
+#-------------------------------
+[366]
+species = SCYTHER
+item = EVERSTONE
+nature = QUIRKY
+evs = SPD, SA, SD
+moves = THIEF, ENDURE, COUNTER, PROTECT
+#-------------------------------
+[367]
+species = WAILMER
+item = PINAPBERRY
+nature = NAUGHTY
+evs = HP, ATK, DEF, SPD, SA
+moves = EARTHQUAKE, THRASH, PROTECT, ROCKTOMB
+#-------------------------------
+[368]
+species = PONYTA
+item = ORANBERRY
+nature = TIMID
+evs = HP, ATK, DEF, SPD, SA
+moves = GROWL, FIREBLAST, HYPNOSIS, STRENGTH

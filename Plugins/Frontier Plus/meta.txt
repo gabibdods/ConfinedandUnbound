@@ -1,0 +1,5 @@
+Name       = Frontier Plus
+Version    = 1.0.0
+Essentials = 21.1
+Requires   = Swdfm Utilities,2024.10.30
+Credits    = Swdfm

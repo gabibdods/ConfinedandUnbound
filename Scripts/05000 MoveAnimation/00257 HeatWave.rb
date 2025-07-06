@@ -1,0 +1,30 @@
+ya = Yuki::Animation
+animation_target = Yuki::Animation::UserBankRelativeAnimation.new
+# HeatWave
+animation_user = ya.wait(0.1)
+animation_target.play_on_bank(0, ya.create_sprite(:viewport, :sprite, Sprite, nil, [:load, 'HeatWave', :animation], [:set_rect, 0, 0, 540, 191], [:zoom=, 1], [:set_origin, 320, 120]))
+animation_target.play_on_bank(1, ya.create_sprite(:viewport, :sprite, Sprite, nil, [:load, 'HeatWave', :animation], [:set_rect, 0, 0, 540, 191], [:zoom=, 1], [:set_origin, 320, 190]))
+main_t_anim = ya.resolved
+animation_target.play_before(main_t_anim)
+main_t_anim.play_before(ya.move_sprite_position(0, :sprite, :target, :target))
+main_t_anim.play_before(ya.se_play('moves/HeatWave'))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 0, 0, 540, 191))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 540, 0, 540, 191))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 1080, 0, 540, 191))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 1620, 0, 540, 191))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 2160, 0, 540, 191))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 2700, 0, 540, 191))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 3240, 0, 540, 191))
+main_t_anim.play_before(ya.wait(0.1))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 3780, 0, 540, 191))
+main_t_anim.play_before(ya.wait(0.1))
+animation_target.play_before(ya.dispose_sprite(:sprite))
+
+Battle::MoveAnimation.register_specific_animation(:heat_wave, :first_use, animation_user, animation_target)

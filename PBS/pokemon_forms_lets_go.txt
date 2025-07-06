@@ -1,0 +1,19 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[PIKACHU,18]
+FormName = Partner Pikachu
+BaseStats = 45,80,50,120,75,60
+Moves = 1,GROWL,1,THUNDERSHOCK,3,TAILWHIP,6,QUICKATTACK,9,DOUBLEKICK,12,DOUBLETEAM,15,THUNDERWAVE,18,LIGHTSCREEN,21,THUNDERBOLT,24,SLAM,27,AGILITY,30,THUNDER
+TutorMoves = FLOATYFALL,SPLISHYSPLASH,ZIPPYZAP,TERABLAST
+Pokedex = This forest-dwelling Pokémon stores electricity in its cheeks, so you’ll feel a tingly shock if you touch it.
+Generation = 7
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize,HasGenderedSprites
+#-------------------------------
+[EEVEE,1]
+FormName = Partner Eevee
+BaseStats = 65,75,70,75,65,85
+Moves = 1,GROWL,1,TACKLE,3,TAILWHIP,6,QUICKATTACK,10,DOUBLEKICK,14,SANDATTACK,17,BITE,21,SWIFT,24,TAKEDOWN,28,DOUBLEEDGE,31,HELPINGHAND
+TutorMoves = BADDYBAD,BOUNCYBUBBLE,BUZZYBUZZ,FREEZYFROST,GLITZYGLOW,SAPPYSEED,SIZZLYSLIDE,SPARKLYSWIRL,VEEVEEVOLLEY,TERABLAST
+Pokedex = It can evolve into a variety of forms. Eevee’s genes are the key to solving the mysteries of Pokémon evolution.
+Generation = 7
+Flags = SOSForm_0,CannotDynamax,CannotTerastallize

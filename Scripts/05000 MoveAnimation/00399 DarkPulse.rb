@@ -1,0 +1,20 @@
+ya = Yuki::Animation
+# DarkPulse
+animation_target = ya.wait(0.1)
+animation_user = ya.create_sprite(:viewport, :sprite, Sprite, nil, [:load, 'DarkPulse', :animation], [:set_rect, 0, 0, 195, 136], [:zoom=, 1.25], [:set_origin, 97.5, 90])
+main_t_anim = ya.resolved
+animation_user.play_before(main_t_anim)
+main_t_anim.play_before(ya.move_sprite_position(0, :sprite, :user, :user))
+main_t_anim.play_before(ya.se_play('moves/DarkPulse'))
+main_t_anim.play_before(ya.wait(0.01))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 0, 0, 195, 136))
+main_t_anim.play_before(ya.wait(0.3))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 0, 136, 195, 136))
+main_t_anim.play_before(ya.wait(0.3))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 0, 272, 195, 136))
+main_t_anim.play_before(ya.wait(0.3))
+main_t_anim.play_before(ya.send_command_to(:sprite, :set_rect, 0, 408, 195, 136))
+main_t_anim.play_before(ya.wait(0.3))
+animation_user.play_before(ya.dispose_sprite(:sprite))
+
+Battle::MoveAnimation.register_specific_animation(:dark_pulse, :first_use, animation_user, animation_target)

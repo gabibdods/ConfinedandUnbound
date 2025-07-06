@@ -1,0 +1,5 @@
+Name       = Swdfm Utilities
+Essentials = 21
+Version    = 2024.10.30
+Website    = none
+Credits    = Swdfm
