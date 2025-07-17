@@ -1,6 +1,6 @@
 # 🎮 2D Remake of a Childhood Game — Built in RPG Maker XP
 
-A passion-driven remake of a nostalgic 3D childhood game using RPG Maker XP and the Ruby Game Scripting System (RGSS). Developed from gameplay reference footage, this 2D pixel-art adaptation faithfully reconstructs the original experience while introducing creative improvements in game design, story progression, and user engagement.
+A behavior-driven remake of a nostalgic 3D childhood game using RPG Maker XP and the Ruby Game Scripting System (RGSS). Developed from gameplay reference footage, this 2D pixel-art adaptation faithfully reconstructs the original experience while introducing creative improvements in game design, story progression, and user engagement.
 
 ---
 
@@ -12,18 +12,18 @@ The game I cherished in my childhood is no longer available on any modern platfo
 
 ## 🎯 Project Goals
 
-- Recreate a beloved 3D childhood game in 2D form  
-- Use **RPG Maker XP** to develop a full story-driven gameplay experience  
-- Explore **event-driven programming** using **RGSS** (Ruby Game Scripting System)  
+- Recreate a beloved 3D childhood game in 2D form
+- Use **RPG Maker XP** to develop a full story-driven gameplay experience
+- Explore **event-driven programming** using **RGSS** (Ruby Game Scripting System)
 - Improve skills in **game design**, **narrative pacing**, and **user experience design**
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 
-- **RPG Maker XP** — Game development engine for 2D RPGs  
-- **RGSS (Ruby Game Scripting System)** — Custom Ruby-based engine for game logic and events  
-- **Custom Sprite & Tile Resources** — Pixel-art characters, environments, and animations  
+- **RPG Maker XP** — Game development engine for 2D RPGs
+- **RGSS (Ruby Game Scripting System)** — Custom Ruby-based engine for game logic and events
+- **Paint.net** — Used to create Pixel-art characters, environments, and animations for Custom Sprite & Tile Resources
 - **YouTube Gameplay Footage** — Used as reference material to reconstruct original mechanics, scenes, and dialogue
 
 ---
@@ -43,9 +43,9 @@ The game I cherished in my childhood is no longer available on any modern platfo
 
 ## 📈 Challenges Faced
 
-- Adapting a **3D game world** into a **2D pixel format** while preserving spatial logic and immersion  
-- Structuring non-linear story progression and scene changes using RGSS  
-- Learning to harness **RGSS scripting capabilities** to create nuanced player interactions  
+- Adapting a **3D game world** into a **2D pixel format** while preserving spatial logic and immersion
+- Structuring non-linear story progression and scene changes using RGSS
+- Learning to harness **RGSS scripting capabilities** to create nuanced player interactions
 - Rebuilding gameplay mechanics and boss patterns based purely on video reference
 
 ---
@@ -64,17 +64,9 @@ The game I cherished in my childhood is no longer available on any modern platfo
 
 ---
 
-## 🧪 Current Status
-
-- ✅ **Alpha version completed**  
-- 🚧 Planning future enhancements: boss fights, unlockables, save/load system  
-- 🎨 Working on refining sprites and background tiles for better visual fidelity
-
----
-
 ## 🚀 Future Enhancements
 
-- Implement a custom **inventory and combat system** using advanced RGSS features  
-- Add optional side quests and multiple endings  
-- Expand sprite library and audio bank for richer sensory experience  
-- Explore options for web-based deployment or Windows packaging for easy distribution
+- Implement a custom **inventory and combat system** using advanced RGSS features
+- Add optional side quests and multiple endings
+- Expand sprite library and audio bank for richer sensory experience
+- Explore options for web-based deployment or Windows packaging
