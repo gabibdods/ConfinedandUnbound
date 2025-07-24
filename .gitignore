@@ -1,27 +1,73 @@
+# https://github.com/gabibdods/NewRepositoryTemplate:
 *
 
 !.gitattributes
 !.gitignore
-!*.dll
-!*.ini
-!*.json
-!*.bmp
-!*.rxproj
-!*.sf2
-!*.ini
-!*.rxproj
-!*.md
+!README.md
 !License/
-!License/*.md
+!License/LICENSE.md
+!License/NOTICE.md
+
+
+# particular repository ignores:
+
+!knownpoint.bmp
+!selpoint.bmp
+!RGSS104E.dll
+!x64-msvcrt-ruby310.dll
+!zlib1.dll
+!mkxp.json
+!soundfont.sf2
 
 !Autotiles/
-!Autotiles/**
+!Autotiles/*.png
 
 !Data/
-!Data/**
+!Data/*.dat
+!Data/*.rxdata
 
-!PBS/
-!PBS/**
+!Fonts/
+!Fonts/*.ttf
+
+!Graphics/
+
+!Graphics/Animations/
+!Graphics/Animations/*.png
+
+!Graphics/Autotiles/
+!Graphics/Autotiles/*.png
+
+!Graphics/Battlebacks/
+!Graphics/Battlebacks/*.png
+
+!Graphics/Battlebacks/unused/
+!Graphics/Battlebacks/unused/*.png
+
+!Graphics/Fogs/
+!Graphics/Fogs/*.png
+
+!Graphics/Particles/
+!Graphics/Particles/*.png
+
+!Graphics/Particles/aquamotes/
+!Graphics/Particles/aquamotes/*.png
+
+!Graphics/Tilesets/
+!Graphics/Tilesets/*.png
+
+!Graphics/Titles/
+!Graphics/Titles/background.png
+!Graphics/Titles/credits1.png
+!Graphics/Titles/credits2.png
+!Graphics/Titles/credits3.png
+!Graphics/Titles/credits4.png
+!Graphics/Titles/credits5.png
+
+!Graphics/Weather/
+!Graphics/Weather/*.png
+
+!Graphics/Windowskins/
+!Graphics/Windowskins/*.png
 
 !Plugins/
 !Plugins/**
