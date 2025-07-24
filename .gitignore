@@ -1,5 +1,19 @@
 *
 
+!.gitattributes
+!.gitignore
+!*.dll
+!*.ini
+!*.json
+!*.bmp
+!*.rxproj
+!*.sf2
+!*.ini
+!*.rxproj
+!*.md
+!License/
+!License/*.md
+
 !Autotiles/
 !Autotiles/**
 
@@ -14,14 +28,3 @@
 
 !Scripts/
 !Scripts/**
-
-!.gitignore
-!*.dll
-!*.ini
-!*.json
-!*.bmp
-!*.rxproj
-!*.sf2
-!*.ini
-!*.rxproj
-!*.md
