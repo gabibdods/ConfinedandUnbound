@@ -4,22 +4,23 @@
 
 ### Description
 
-- A behavior-driven 2D pixel-art remake of a nostalgic 3D childhood game, created using RPG Maker XP and RGSS.
-- Developed from gameplay footage, the project aims to faithfully capture the original experience while introducing improvements in story pacing, interaction design, and scripting efficiency.
+- A behavior-driven 2D pixel-art remake of a nostalgic 3D childhood game, created using RPG Maker XP and RGSS
+- Developed from gameplay footage, the project aims to faithfully capture the original experience while introducing improvements in story pacing, interaction design, and scripting efficiency
 
 ---
 
 ## NOTICE
 
-- Please read through this `README.md` to better understand the project's source code and setup instructions.
-- Also, make sure to review the contents of the `License/` directory.
+- Please read through this `README.md` to better understand the project's source code and setup instructions
+- Also, make sure to review the contents of the `License/` directory
 - Your attention to these details is appreciated — enjoy exploring the project!
 
 ---
 
 ## Problem Statement
 
-- The original 3D childhood game is no longer accessible on modern platforms and has no official remakes. This project reconstructs it from scratch, serving both as a tribute and a learning opportunity in game design and behavior-driven development.
+- The original 3D childhood game is no longer accessible on modern platforms and has no official remakes
+- This project reconstructs it from scratch, serving both as a tribute and a learning opportunity in game design and behavior-driven development
 
 ---
 
@@ -27,11 +28,11 @@
 
 ### Recreate the Original Game Experience
 
-- Translate a beloved 3D game into a 2D format while preserving its mechanics, narrative, and atmosphere.
+- Translate a beloved 3D game into a 2D format while preserving its mechanics, narrative, and atmosphere
 
 ### Learn and Apply Event-Driven Development
 
-- Use RGSS scripting within RPG Maker XP to build interactive events, game logic, and cutscenes.
+- Use RGSS scripting within RPG Maker XP to build interactive events, game logic, and cutscenes
 
 ---
 
@@ -39,16 +40,16 @@
 
 ### Tools
 
-- RPG Maker XP — 2D game engine tailored for classic RPG development.
-- Paint.net — Lightweight pixel-art editor for character sprites, tilesets, and animations.
+- RPG Maker XP: 2D game engine tailored for classic RPG development
+- Paint.net: Lightweight pixel-art editor for character sprites, tilesets, and animations
 
 ### Materials
 
-- YouTube Gameplay Footage — Primary reference source for scene reconstruction, dialogue, and combat design.
+- YouTube Gameplay Footage: Primary reference source for scene reconstruction, dialogue, and combat design
 
 ### Resources
 
-- RGSS Documentation — Core scripting reference for building custom behavior logic and UI components.
+- RGSS Documentation: Core scripting reference for building custom behavior logic and UI components
 
 ---
 
@@ -56,15 +57,15 @@
 
 ### 2D Isometric Mapping
 
-- Chose pixel-art representation to fit RPG Maker XP's limitations while still capturing the 3D game's spatial logic.
+- Chose pixel-art representation to fit RPG Maker XP's limitations while still capturing the 3D game's spatial logic
 
 ### Event-Driven Scripting
 
-- Leveraged RPG Maker’s event system and RGSS for scene transitions, dialogue trees, and game state handling.
+- Leveraged RPG Maker’s event system and RGSS for scene transitions, dialogue trees, and game state handling
 
 ### Animation Fidelity
 
-- Developed custom animations to reflect original boss behavior, physics, and special effects using RGSS scripting.
+- Developed custom animations to reflect original boss behavior, physics, and special effects using RGSS scripting
 
 ---
 
@@ -72,15 +73,15 @@
 
 ### Core Gameplay Loop
 
-- Faithful recreation of exploration, story events, puzzles, and boss fights.
+- Faithful recreation of exploration, story events, puzzles, and boss fights
 
 ### Enhanced Narrative Structure
 
-- Improved pacing, user interaction, and dialogue branching with cleaner progression logic.
+- Improved pacing, user interaction, and dialogue branching with cleaner progression logic
 
 ### Custom Sprite Assets
 
-- Hand-drawn pixel-art recreations of characters, environments, and transitions.
+- Hand-drawn pixel-art recreations of characters, environments, and transitions
 
 ---
 
@@ -113,7 +114,8 @@
 
 ## Functional Overview
 
-- This game uses a combination of RGSS scripting and RPG Maker XP’s event system to manage player actions, transitions, and in-game logic. Scenes are initiated via event triggers and scripted with precise control over timing, animations, and conditions.
+- This game uses a combination of RGSS scripting and RPG Maker XP’s event system to manage player actions, transitions, and in-game logic
+- Scenes are initiated via event triggers and scripted with precise control over timing, animations, and conditions
 
 ---
 
@@ -121,11 +123,11 @@
 
 ### 3D-to-2D Spatial Design
 
-- Preserved gameplay logic and spatial navigation by carefully studying and mapping each 3D scene into a functional 2D environment.
+- Preserved gameplay logic and spatial navigation by carefully studying and mapping each 3D scene into a functional 2D environment
 
 ### Boss AI Recreation
 
-- Without access to original code, recreated AI patterns using frame-by-frame video analysis and scripted behavior trees.
+- Without access to original code, recreated AI patterns using frame-by-frame video analysis and scripted behavior trees
 
 ---
 
@@ -133,11 +135,11 @@
 
 ### Game Design Insights
 
-- Built a deeper understanding of scene sequencing, user control flow, and modular event handling.
+- Built a deeper understanding of scene sequencing, user control flow, and modular event handling
 
 ### Technical Proficiency
 
-- Gained experience working with RGSS for scripting game mechanics, custom UI, and behavior-driven development cycles.
+- Gained experience working with RGSS for scripting game mechanics, custom UI, and behavior-driven development cycles
 
 ---
 
