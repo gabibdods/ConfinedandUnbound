@@ -11,6 +11,7 @@
 
 # particular repository ignores:
 
+!.gitlab-ci.yml
 !knownpoint.bmp
 !selpoint.bmp
 !RGSS104E.dll
