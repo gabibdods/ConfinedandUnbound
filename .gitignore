@@ -20,6 +20,9 @@
 !mkxp.json
 !soundfont.sf2
 
+!.gitlab/
+!.gitlab/sast-ruleset.toml
+
 !Autotiles/
 !Autotiles/*.png
 
